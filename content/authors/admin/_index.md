@@ -1,77 +1,45 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+role: Astronomy PhD Student
+avatar_filename: img_0954.jpeg
+bio: ""
+interests: []
+social:
+  - display:
+      header: false
+    icon_pack: fas
+    icon: envelope
+    label: Contact
+    link: /#contact
+  - display:
+      header: false
+    icon: ads
+    icon_pack: ai
+    link: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FCutler%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FCutler%2C%20S%22)&fq_database=database%3A%22astronomy%22&q=%20%20author%3A%22cutler%2Csam%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+    label: ADS
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-7031-2865
+    label: ORCID
+    icon_pack: ai
+    icon: orcid
+organizations: []
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD in Astrophysics
+      institution: University of Massachusetts, Amherst
+      year: ""
+    - course: BS in Physics
+      institution: University of Connecticut
+      year: 2019
+superuser: true
 highlight_name: true
+title: Sam E. Cutler
+email: ""
 ---
+I am an Astronomy PhD student at the University of Massachusetts, Amherst. I am advised by Kate Whitaker and Mauro Giavalisco. I graduated with a BS in Physics from the University of Connecticut in 2019. In my research, I focus on the formation and evolution of galaxies via large photometric and spectroscopic surveys. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In the past, I have studied the relationship between galaxy structure, environment, and star formation through the creation of the <a href="https://archive.stsci.edu/hlsp/cosmos-dash" target="_blank"> COSMOS-DASH morphological catalog</a>.  I am currently working with photometry and source detection in the 3D-DASH survey, the successor to COSMOS-DASH. At the same time, I am also currently working on studying the different formation histories of the inner and outer parts of typical star-forming galaxies near cosmic noon using the <a href="https://prospect.readthedocs.io" target="_blank"> Prospector</a> code.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Outside of research, I am an active member in science outreach with UMass Astronomy, where we hope to make science accessible to the larger community and encourage interest in astronomy.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
