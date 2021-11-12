@@ -53,8 +53,12 @@ date: 2021-11-12T23:24:07.510Z
 url_slides: ""
 title: "Diagnosing DASH: A Catalog of Structural Properties for the COSMOS-DASH
   Survey"
-doi: ""
 tags: []
+categories:
+  - '"Catalogs"'
+  - '"Galaxies - Galaxy Evolution"'
+  - '"Galaxies - Structure"'
+  - '"Surveys"'
 projects: []
 image:
   caption: ""
@@ -64,4 +68,5 @@ image:
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
+doi: ""
 ---
