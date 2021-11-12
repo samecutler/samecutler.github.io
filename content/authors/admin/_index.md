@@ -41,7 +41,7 @@ email: ""
 ---
 I am an Astronomy PhD student at the University of Massachusetts, Amherst. I am advised by Kate Whitaker and Mauro Giavalisco. I graduated with a BS in Physics from the University of Connecticut in 2019. In my research, I focus on the formation and evolution of galaxies via large photometric and spectroscopic surveys. 
 
-In the past, I have studied the relationship between galaxy structure, environment, and star formation through the creation of the <a href="https://archive.stsci.edu/hlsp/cosmos-dash" target="_blank"> COSMOS-DASH morphological catalog</a>.  I am currently working with photometry and source detection in the 3D-DASH survey, the successor to COSMOS-DASH. At the same time, I am also currently working on studying the different formation histories of the inner and outer parts of typical star-forming galaxies near cosmic noon using the <a href="https://prospect.readthedocs.io" target="_blank"> Prospector</a> code.
+In the past, I have studied the relationship between galaxy structure, environment, and star formation through the creation of the [COSMOS-DASH morphological catalog](https://archive.stsci.edu/hlsp/cosmos-dash).  I am currently working with photometry and source detection in the 3D-DASH survey, the successor to COSMOS-DASH. At the same time, I am also currently working on studying the different formation histories of the inner and outer parts of typical star-forming galaxies near cosmic noon using the [Prospector](https://prospect.readthedocs.io) code.
 
 Outside of research, I am an active member in science outreach with UMass Astronomy, where we hope to make science accessible to the larger community and encourage interest in astronomy.
 
