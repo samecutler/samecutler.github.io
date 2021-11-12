@@ -1,6 +1,6 @@
 ---
 role: Astronomy PhD Student
-avatar_filename: img_0954.jpeg
+avatar_filename: avatar.jpeg
 bio: ""
 interests: []
 social:
