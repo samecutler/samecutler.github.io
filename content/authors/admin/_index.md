@@ -2,7 +2,10 @@
 role: Astronomy PhD Student
 avatar_filename: avatar.jpeg
 bio: ""
-interests: []
+interests:
+  - '"Galaxy Evolution and Formation"'
+  - '"Galaxy Structure and Morphology"'
+  - '"Catalogs and Surveys"'
 social:
   - display:
       header: false
