@@ -51,7 +51,8 @@ url_video: ""
 featured: true
 date: 2021-11-13T00:51:36.869Z
 url_slides: ""
-title: DASH
+title: "Diagnosing DASH: A Catalog of Structural Properties for the COSMOS-DASH
+  Survey"
 tags: []
 categories:
   - '"Catalogs"'
