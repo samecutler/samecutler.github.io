@@ -37,7 +37,7 @@ education:
 superuser: true
 highlight_name: true
 title: Sam E. Cutler
-email: ""
+email: secutler@umass.edu
 ---
 I am an Astronomy PhD student at the University of Massachusetts, Amherst. I am advised by Kate Whitaker and Mauro Giavalisco. I graduated with a BS in Physics from the University of Connecticut in 2019. In my research, I focus on the formation and evolution of galaxies via large photometric and spectroscopic surveys. 
 
