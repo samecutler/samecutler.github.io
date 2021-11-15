@@ -29,7 +29,6 @@ organizations:
   - name: Department of Astronomy
     url: https://www.astro.umass.edu
   - name: University of Massachusetts, Amherst
-    url: https://www.astro.umass.edu
 education:
   courses:
     - course: PhD in Astrophysics
