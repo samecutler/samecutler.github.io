@@ -55,10 +55,10 @@ title: "Diagnosing DASH: A Catalog of Structural Properties for the COSMOS-DASH
   Survey"
 tags: []
 categories:
-  - '"Catalogs"'
-  - '"Galaxies - Galaxy Evolution"'
-  - '"Galaxies - Structure"'
-  - '"Surveys"'
+  - Catalogs
+  - Galaxies - Galaxy Evolution
+  - Galaxies - Structure
+  - Surveys
 projects: []
 image:
   caption: ""
