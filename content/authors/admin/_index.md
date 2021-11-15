@@ -45,4 +45,4 @@ In the past, I have studied the relationship between galaxy structure, environme
 
 Outside of research, I am an active member in science outreach with UMass Astronomy, where we hope to make science accessible to the larger community and encourage interest in astronomy.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
