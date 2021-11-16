@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Sam E. Cutler # Website name
-baseurl: 'https://secutler.github.io/' # Website URL
+baseurl: 'https://samecutler.github.io/' # Website URL
 copyright: '© {year} Sam Cutler' # Footer text, e.g.
 
 ############################
