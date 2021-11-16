@@ -14,7 +14,7 @@ main:
     url: '#featured'
     weight: 30
   - name: CV
-    url: uploads/cv.pdf
+    url: uploads/CV.pdf
     weight: 40
   - name: Contact
     url: '#contact'
