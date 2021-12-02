@@ -2,42 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://samecutler.github.io/publication-type/2/</loc>
-    <lastmod>2021-11-13T00:51:36+00:00</lastmod>
+    <loc>https://samecutler.github.io/project/cosmos-dash/</loc>
+    <lastmod>2021-12-01T00:51:36+00:00</lastmod>
   </url><url>
-    <loc>https://samecutler.github.io/category/catalogs/</loc>
-    <lastmod>2021-11-13T00:51:36+00:00</lastmod>
+    <loc>https://samecutler.github.io/tag/featured/</loc>
+    <lastmod>2021-12-01T00:51:36+00:00</lastmod>
   </url><url>
-    <loc>https://samecutler.github.io/categories/</loc>
-    <lastmod>2021-11-13T00:51:36+00:00</lastmod>
+    <loc>https://samecutler.github.io/tag/galaxy-evolution/</loc>
+    <lastmod>2021-12-01T00:51:36+00:00</lastmod>
   </url><url>
-    <loc>https://samecutler.github.io/publication/dash/</loc>
-    <lastmod>2021-11-13T00:51:36+00:00</lastmod>
+    <loc>https://samecutler.github.io/project/</loc>
+    <lastmod>2021-12-01T00:51:36+00:00</lastmod>
   </url><url>
-    <loc>https://samecutler.github.io/category/galaxies-galaxy-evolution/</loc>
-    <lastmod>2021-11-13T00:51:36+00:00</lastmod>
-  </url><url>
-    <loc>https://samecutler.github.io/category/galaxies-structure/</loc>
-    <lastmod>2021-11-13T00:51:36+00:00</lastmod>
-  </url><url>
-    <loc>https://samecutler.github.io/publication_types/</loc>
-    <lastmod>2021-11-13T00:51:36+00:00</lastmod>
-  </url><url>
-    <loc>https://samecutler.github.io/publication/</loc>
-    <lastmod>2021-11-13T00:51:36+00:00</lastmod>
+    <loc>https://samecutler.github.io/project/resolved-prospector/</loc>
+    <lastmod>2021-12-01T00:51:36+00:00</lastmod>
   </url><url>
     <loc>https://samecutler.github.io/</loc>
-    <lastmod>2021-11-13T00:51:36+00:00</lastmod>
+    <lastmod>2021-12-01T00:51:36+00:00</lastmod>
   </url><url>
-    <loc>https://samecutler.github.io/category/surveys/</loc>
-    <lastmod>2021-11-13T00:51:36+00:00</lastmod>
+    <loc>https://samecutler.github.io/tag/sed-fitting/</loc>
+    <lastmod>2021-12-01T00:51:36+00:00</lastmod>
+  </url><url>
+    <loc>https://samecutler.github.io/tag/surveys/</loc>
+    <lastmod>2021-12-01T00:51:36+00:00</lastmod>
+  </url><url>
+    <loc>https://samecutler.github.io/tags/</loc>
+    <lastmod>2021-12-01T00:51:36+00:00</lastmod>
+  </url><url>
+    <loc>https://samecutler.github.io/publication-type/2/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samecutler.github.io/publication/dash/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samecutler.github.io/publication_types/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samecutler.github.io/publication/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samecutler.github.io/publication-type/1/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samecutler.github.io/publication/aas2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samecutler.github.io/tag/dynamics/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samecutler.github.io/publication/aas2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://samecutler.github.io/admin/</loc>
+  </url><url>
+    <loc>https://samecutler.github.io/categories/</loc>
   </url><url>
     <loc>https://samecutler.github.io/post/</loc>
   </url><url>
     <loc>https://samecutler.github.io/event/</loc>
-  </url><url>
-    <loc>https://samecutler.github.io/tags/</loc>
   </url>
 </urlset>
