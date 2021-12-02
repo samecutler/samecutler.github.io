@@ -17,7 +17,7 @@ social:
       header: false
     icon: twitter
     icon_pack: fab
-    link: https://twitter.com/
+    link: https://twitter.com/secutler/
     label: Twitter
   - display:
       header: false
