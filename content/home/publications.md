@@ -4,7 +4,7 @@ widget_id: publications
 headless: true
 weight: 50
 title: Recent Publications
-subtitle: ""
+subtitle: 'Total Refereed: 1 <br> As First Author: 1'
 content:
   page_type: publication
   count: 5
