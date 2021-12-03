@@ -1,7 +1,6 @@
 ---
 abstract: UMass Amherst Journal Club - Second Year Talk
-url_pdf: "uploads/yr2talk.pdf"
-title: "The Differential Assembly of the Centers and Outskirts of Main Sequence Galaxies at z~2.3."
+title: "The Differential Assembly of the Centers and Outskirts of Main Sequence Galaxies at z~2.3"
 location: UMass Amherst, Department of Astronomy
 date: 2021-11-01T16:00:00.000Z
 date_end: 2021-11-01T17:00:00.000Z
