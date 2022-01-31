@@ -1,7 +1,7 @@
 ---
 title: Diagnosing DASH
 subtitle: A Catalog of Structural Parameters for the COSMOS-DASH Survey
-date: 2021-12-01
+date: 2022-01-20
 summary: We present an HST-resolution morphological catalog of over 50,000 galaxies in the COSMOS field utilizing the "Drift And SHift" (DASH) observing mode. We test the limits of DASH observations for determining morphologies of galaxies across a wide range of masses and redshifts.
 authors:
   - Sam E. Cutler
@@ -34,12 +34,12 @@ projects: [cosmos-dash]
 links:
 - name: ADS
   url: https://ui.adsabs.harvard.edu/abs/2021arXiv211114848C/abstract
-url_pdf: https://arxiv.org/pdf/2111.14848.pdf
+url_pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ac341c/pdf
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-doi: ''
+doi: https://doi.org/10.3847/1538-4357/ac341c
 publication_types:
   - '2'
 publication: The Astrophysical Journal
