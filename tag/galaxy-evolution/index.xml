@@ -5,12 +5,20 @@
     <link>https://samecutler.github.io/tag/galaxy-evolution/</link>
       <atom:link href="https://samecutler.github.io/tag/galaxy-evolution/index.xml" rel="self" type="application/rss+xml" />
     <description>Galaxy Evolution</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Sam Cutler</copyright><lastBuildDate>Wed, 01 Dec 2021 00:51:36 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sam Cutler</copyright><lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samecutler.github.io/media/icon_hue11b335ae175fd4abb2262113e3113ef_438264_512x512_fill_lanczos_center_3.png</url>
       <title>Galaxy Evolution</title>
       <link>https://samecutler.github.io/tag/galaxy-evolution/</link>
     </image>
+    
+    <item>
+      <title>Diagnosing DASH</title>
+      <link>https://samecutler.github.io/publication/dash/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://samecutler.github.io/publication/dash/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COSMOS-DASH</title>
@@ -29,14 +37,6 @@
       <guid>https://samecutler.github.io/project/resolved-prospector/</guid>
       <description>&lt;p&gt;The formation of the central parts of &amp;ldquo;typical&amp;rdquo; star-forming galaxies is an open question in astronomy. To investigate this, we present a sample of 60 z~2.3 main-sequence galaxies from the &lt;a href=&#34;http://mosdef.astro.berkeley.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MOSFIRE Deep Evolution Field (MOSDEF)&lt;/a&gt; spectroscopic survey. Using the &lt;a href=&#34;https://prospect.readthedocs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prospector code&lt;/a&gt; with strong metallicity priors from MOSDEF spectra, we fit SEDs to resolved inner (bulge) and outer (disk) components, using a novel iterative method to robustly incorporate unresolved &lt;em&gt;Spitzer&lt;/em&gt;/IRAC and &lt;em&gt;K&lt;/em&gt;-band data. This technique allows us to get well-constrained, non-parametric star formation histories for the central and outer regions of these typical main-sequence galaxies (see the figure above), which provides insight into the overall assembly of Milky-Way-like galaxies.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Diagnosing DASH</title>
-      <link>https://samecutler.github.io/publication/dash/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://samecutler.github.io/publication/dash/</guid>
-      <description></description>
     </item>
     
     <item>
