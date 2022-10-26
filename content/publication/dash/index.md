@@ -33,13 +33,14 @@ tags:
 projects: [cosmos-dash]
 links:
 - name: ADS
-  url: https://ui.adsabs.harvard.edu/abs/2021arXiv211114848C/abstract
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...925...34C/abstract
 url_pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ac341c/pdf
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 doi: https://doi.org/10.3847/1538-4357/ac341c
+publishDate: '2022-01-20'
 publication_types:
   - '2'
 publication: The Astrophysical Journal

@@ -9,7 +9,7 @@ tags:
   - Galaxy Evolution
   - Featured
   - Surveys
-external_link: #https://archive.stsci.edu/hlsp/cosmos-dash
+external_link:
 links: []
 image:
   filename: featured.jpg
