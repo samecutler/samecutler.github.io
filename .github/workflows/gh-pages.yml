@@ -37,4 +37,5 @@ jobs:
         with:
           external_repository: samecutler/samecutler.github.io
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
