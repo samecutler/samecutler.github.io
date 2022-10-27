@@ -7,7 +7,7 @@ title: Research
 subtitle: ""
 content:
   page_type: project
-  filter_default: 1
+  filter_default: 0
   filter_button:
     - name: All
       tag: "*"
