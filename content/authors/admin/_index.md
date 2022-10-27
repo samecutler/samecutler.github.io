@@ -1,5 +1,5 @@
 ---
-role: Astronomy PhD Student
+role: Astronomy Ph.D. Student
 avatar_filename: avatar.jpeg
 bio: ""
 interests:
@@ -23,7 +23,7 @@ social:
       header: false
     icon: ads
     icon_pack: ai
-    link: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FCutler%2C%20S%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FCutler%2C%20S%22)&fq_database=database%3A%22astronomy%22&q=%20%20author%3A%22cutler%2Csam%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+    link: https://ui.adsabs.harvard.edu/public-libraries/ShTukd8bQheJElBUSu322A
     label: ADS
   - display:
       header: false
@@ -43,10 +43,10 @@ organizations:
   - name: University of Massachusetts, Amherst
 education:
   courses:
-    - course: PhD in Astrophysics
+    - course: Ph.D. in Astrophysics
       institution: University of Massachusetts, Amherst (expected)
       year: ""
-    - course: BS in Physics
+    - course: B.S. in Physics and Mathematics
       institution: University of Connecticut
       year: 2019
 superuser: true
