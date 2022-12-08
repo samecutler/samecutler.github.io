@@ -19,12 +19,12 @@ social:
     icon_pack: ai
     link: https://ui.adsabs.harvard.edu/public-libraries/ShTukd8bQheJElBUSu322A
     label: ADS
-    - display:
-        header: false
-      icon: github
-      icon_pack: fab
-      link: https://github.com/samecutler
-      label: Github
+  - display:
+      header: false
+    icon: github
+    icon_pack: fab
+    link: https://github.com/samecutler
+    label: Github
   - display:
       header: false
     link: https://orcid.org/0000-0002-7031-2865
