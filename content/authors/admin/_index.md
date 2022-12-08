@@ -15,22 +15,28 @@ social:
     link: /#contact
   - display:
       header: false
-    icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/secutler/
-    label: Twitter
-  - display:
-      header: false
     icon: ads
     icon_pack: ai
     link: https://ui.adsabs.harvard.edu/public-libraries/ShTukd8bQheJElBUSu322A
     label: ADS
+    - display:
+        header: false
+      icon: github
+      icon_pack: fab
+      link: https://github.com/samecutler
+      label: Github
   - display:
       header: false
     link: https://orcid.org/0000-0002-7031-2865
     label: ORCID
     icon_pack: ai
     icon: orcid
+  - display:
+      header: false
+    icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/secutler/
+    label: Twitter
   - display:
       header: false
     icon: linkedin
