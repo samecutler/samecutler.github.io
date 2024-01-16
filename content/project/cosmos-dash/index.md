@@ -8,7 +8,7 @@ featured: false
 tags:
   - Galaxy Evolution
   - Featured
-  - Surveys
+  - Catalogs
 external_link:
 links: []
 image:

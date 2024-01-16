@@ -1,12 +1,37 @@
 ---
-title: "The UNCOVER Survey: A first-look HST+JWST catalog of 50,000 galaxies near Abell 2744 and beyond"
-date: 2023-01-01
-publishDate: 2023-01-17T21:01:22.108276Z
-authors: ["John R. Weaver", "Sam E. Cutler", "Richard Pan", "Katherine E. Whitaker", "Ivo Labbe", "Sedona H. Price", "Rachel Bezanson", "Gabriel Brammer", "Danilo Marchesini", "Joel Leja", "Bingjie Wang", "Lukas J. Furtak", "Adi Zitrin", "Hakim Atek", "Dan Coe", "Pratika Dayal", "Pieter van Dokkum", "Robert Feldmann", "Natascha Forster Schreiber", "Marijn Franx", "Seiji Fujimoto", "Yoshinobu Fudamoto", "Karl Glazebrook", "Anna de Graaff", "Jenny E. Greene", "Stephanie Juneau", "Susan Kassin", "Mariska Kriek", "Gourav Khullar", "Michael Maseda", "Lamiya A. Mowla", "Adam Muzzin", "Themiya Nanayakkara", "Erica J. Nelson", "Pascal A. Oesch", "Camilla Pacifici", "Casey Papovich", "David Setton", "Alice E. Shapley", "Renske Smit", "Mauro Stefanon", "Edward N. Taylor", "Andrea Weibel", "Christina C. Williams"]
-publication_types: ["2"]
-abstract: ""
-featured: false
-publication: "*arXiv e-prints*"
-tags: ["Astrophysics - Astrophysics of Galaxies"]
----
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: 'astrowhit/aperpy: v1.0.1'
+subtitle: ''
+summary: ''
+authors:
+- John Weaver
+- Sam Cutler
+tags: []
+categories: []
+date: '2023-09-01'
+lastmod: 2024-01-16T15:44:59-05:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2024-01-16T20:44:59.343366Z'
+publication_types:
+- '0'
+abstract: ''
+publication: '*Zenodo*'
+doi: 10.5281/zenodo.8339191
+---
