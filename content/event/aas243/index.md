@@ -2,8 +2,8 @@
 abstract: 'AAS243 - Evolution of Galaxies: Quenching'
 title: "Low-Mass Quiescent Galaxy Sizes in the JWST PRIMER and UNCOVER Treasury Programs"
 location: New Orleans, LA, USA
-date: 2024-11-01T15:00:00.000Z
-date_end: 2024-11-01T15:10:00.000Z
+date: 2024-01-11T15:00:00.000Z
+date_end: 2024-01-11T15:10:00.000Z
 all_day: false
 event: American Astronomical Society 243rd Meeting
 event_url: ""
@@ -11,7 +11,7 @@ featured: false
 authors: []
 url_video: ""
 links: []
-publishDate: 2024-11-01
+publishDate: 2024-01-11
 tags: [contributed]
 projects:
   - jwst sizes

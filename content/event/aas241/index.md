@@ -2,8 +2,8 @@
 abstract: AAS241 - Star Formation Histories and Post Starburst Galaxies
 title: "Measuring Star-Formation Histories at z~2 with a Semi-Resolved Approach"
 location: Seattle, WA, USA
-date: 2023-09-01T10:10:00.000Z
-date_end: 2023-09-01T10:20:00.000Z
+date: 2023-01-09T10:10:00.000Z
+date_end: 2023-01-09T10:20:00.000Z
 all_day: false
 event: American Astronomical Society 241st Meeting
 event_url: ""
@@ -11,7 +11,7 @@ featured: false
 authors: []
 url_video: ""
 links: []
-publishDate: 2023-09-01
+publishDate: 2023-01-09
 tags: [contributed]
 projects:
   - resolved prospector
