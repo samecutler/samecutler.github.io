@@ -10,7 +10,6 @@ abstract: 'We present a study of spatially-resolved star formation histories (SF
 featured: true
 publication: "*The Astrophysical Journal*"
 tags: ["Galaxy Evolution","SED Fitting","Featured"]
-doi:
 summary: We present a study of spatially-resolved star formation histories for 60 z~2.3 main-sequence, star-forming galaxies. The results suggest that selecting star-forming galaxies at cosmic noon frequently includes systems in an "evolved" evolutionary phase where the centers have recently started a burst of star formation activity that will likely initiate inside-out quenching in the next several hundred million years.
 projects: [resolved prospector]
 links:
@@ -28,10 +27,8 @@ image:
   preview_only: false
 
 subtitle: ''
-summary: ''
 
 categories: []
-date: '2023-03-01'
 lastmod: 2024-01-16T15:51:18-05:00
 featured: true
 draft: false
