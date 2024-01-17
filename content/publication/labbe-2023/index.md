@@ -58,7 +58,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:11.631533Z'
+publishDate: '2024-01-17T18:30:14.977069Z'
 publication_types:
 - '2'
 abstract: The James Webb Space Telescope (JWST) is revolutionizing our knowledge of
@@ -67,8 +67,8 @@ abstract: The James Webb Space Telescope (JWST) is revolutionizing our knowledge
   (UNCOVER) in the lensing field Abell 2744, we report the identification of a sample
   of little red dots at 3 < z_phot < 7 that likely contain highly-reddened accreting
   supermassive black holes. Using a NIRCam-only selection to F444W<27.7 mag, we find
-  26 sources over the ∼45 arcmin^2 field that are blue in F115W-F200W∼0 (or β_ UV∼-2.0
-  for f_λ∝λ^β), red in F200W-F444W = 1-4 (β_ opt∼ +2.0), and are dominated by a point-source
+  26 sources over the ∼45 arcmin^2 field that are blue in F115W-F200W∼0 (or β_UV∼-2.0
+  for f_λ∝λ^β), red in F200W-F444W = 1-4 (β_opt∼ +2.0), and are dominated by a point-source
   like central component. Of the 20 sources with deep ALMA 1.2-mm coverage, none are
   detected individually or in a stack. For the majority of the sample, SED fits to
   the JWST+ALMA observations prefer models with hot dust rather than obscured star-formation
@@ -76,8 +76,8 @@ abstract: The James Webb Space Telescope (JWST) is revolutionizing our knowledge
   dusty star formation can not be ruled out, the combination of extremely small sizes
   (⟨ r_e ⟩≈50 pc after correction for magnification), red rest-frame optical slopes,
   and hot dust can by explained by reddened broad-line active galactic nuclei (AGNs).
-  Our targets have faint M_ 1450≈ -14   to -18 mag but inferred bolometric luminosities
-  of L_ bol = 10^43-10^46 erg/s, reflecting their obscured nature. If the candidates
+  Our targets have faint M_1450≈ -14  to -18 mag but inferred bolometric luminosities
+  of L_bol = 10^43-10^46 erg/s, reflecting their obscured nature. If the candidates
   are confirmed as AGNs with upcoming UNCOVER spectroscopy, then we have found an
   abundant population of reddened luminous AGN that are at least ten times more numerous
   than UV-luminous AGN at the same intrinsic bolometric luminosity.

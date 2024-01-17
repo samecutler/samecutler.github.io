@@ -62,7 +62,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:10.299009Z'
+publishDate: '2024-01-17T18:30:13.660431Z'
 publication_types:
 - '2'
 abstract: 'JWST is revealing a new population of dust-reddened broad-line active galactic
@@ -74,10 +74,10 @@ abstract: 'JWST is revealing a new population of dust-reddened broad-line active
   dust-reddened AGN: 60% show definitive evidence for broad-line Hα with FWHM>2000
   km/s, for 20% current data are inconclusive, and 20% are brown dwarf stars. We propose
   an updated photometric criterion to select red z>5 AGN that excludes brown dwarfs
-  and is expected to yield >80% AGN. Remarkably, among all z_ phot>5 galaxies with
+  and is expected to yield >80% AGN. Remarkably, among all z_phot>5 galaxies with
   F277W-F444W>1 in UNCOVER at least 33% are AGN regardless of compactness, climbing
   to at least 80% AGN for sources with F277W-F444W>1.6. The confirmed AGN have black
-  hole masses of 10^7-10^9 M_⊙. While their UV-luminosities (-16>M_ UV>-20 AB mag)
+  hole masses of 10^7-10^9 M_⊙. While their UV-luminosities (-16>M_UV>-20 AB mag)
   are low compared to UV-selected AGN at these epochs, consistent with percent-level
   scattered AGN light or low levels of unobscured star formation, the inferred bolometric
   luminosities are typical of 10^7-10^9 M_⊙ black holes radiating at ∼ 10-40% of Eddington.

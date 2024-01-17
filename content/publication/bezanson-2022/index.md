@@ -71,7 +71,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:12.176537Z'
+publishDate: '2024-01-17T18:30:15.553223Z'
 publication_types:
 - '2'
 abstract: In this paper we describe the survey design for the Ultradeep NIRSpec and

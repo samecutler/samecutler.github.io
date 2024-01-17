@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:12.000980Z'
+publishDate: '2024-01-17T18:30:15.365633Z'
 publication_types:
 - '1'
 abstract: Understanding the history of star formation in galaxies is key to gaining

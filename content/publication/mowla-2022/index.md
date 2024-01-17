@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:12.377443Z'
+publishDate: '2024-01-17T18:30:15.756371Z'
 publication_types:
 - '2'
 abstract: The 3D-Drift And SHift (3D-DASH) program is a Hubble Space Telescope (HST)

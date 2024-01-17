@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:08.165217Z'
+publishDate: '2024-01-17T18:30:11.559885Z'
 publication_types:
 - '2'
 abstract: Over the past year, JWST has uncovered galaxies at record-breaking distances
@@ -64,7 +64,7 @@ abstract: Over the past year, JWST has uncovered galaxies at record-breaking dis
   of the luminosity function compared to the classical Schechter form. The number
   density of these bright galaxies is 10-100 times larger than theoretical predictions
   and previous findings based on Hubble Space Telescope (HST) observations. Additionally,
-  we measure a star formation rate density of ρ_ SFR = 10^-2.64 M_⊙ yr^-1 Mpc^-3 at
+  we measure a star formation rate density of ρ_SFR = 10^-2.64 M_⊙ yr^-1 Mpc^-3 at
   these redshifts, which is 4 to 10 times higher than galaxy formation models that
   assume a constant star formation efficiency. Future wide-area surveys and accurate
   modeling of lensing-assisted observations will reliably constrain both the bright

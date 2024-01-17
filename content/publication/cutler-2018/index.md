@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:12.922014Z'
+publishDate: '2024-01-17T18:30:16.328658Z'
 publication_types:
 - '1'
 abstract: Examination of galactic rotation curves in the local universe has yielded

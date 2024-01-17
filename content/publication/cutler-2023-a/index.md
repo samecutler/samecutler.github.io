@@ -62,7 +62,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:07.956149Z'
+publishDate: '2024-01-17T18:30:11.350554Z'
 publication_types:
 - '2'
 abstract: 'We present a measurement of the low-mass quiescent size-mass relation at

@@ -65,13 +65,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:10.693214Z'
+publishDate: '2024-01-17T18:30:14.039722Z'
 publication_types:
 - '2'
 abstract: We present JWST NIRSpec prism spectroscopy of gravitationally lensed galaxies
   at zrsim9 found behind the massive galaxy cluster Abell 2744 in the UNCOVER Cycle
   1 Treasury Program. We confirm the source redshift via emission lines and/or the
-  Lyα break feature for ten galaxies at z=8.50-13.08 down to M_ UV=-17.3. We achieve
+  Lyα break feature for ten galaxies at z=8.50-13.08 down to M_UV=-17.3. We achieve
   a high confirmation rate of 100% for z>9 candidates reported in Atek et al. (2023).
   Using six sources with multiple emission line detections, we find that the offset
   of the redshift estimates between the lines and the Lyα break alone with prism can

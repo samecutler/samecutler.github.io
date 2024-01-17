@@ -60,7 +60,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:09.705874Z'
+publishDate: '2024-01-17T18:30:13.114024Z'
 publication_types:
 - '2'
 abstract: We present the survey design and initial results of the ALMA Cycle 9 program
@@ -68,7 +68,7 @@ abstract: We present the survey design and initial results of the ALMA Cycle 9 p
   the massive galaxy cluster Abell 2744. DUALZ features a contiguous 4'×6' ALMA 30-GHz-wide
   mosaic in Band 6, covering areas of μ>2 down to a sensitivity of σ=32.7 μJy. Through
   a blind search, we identified 69 dust continuum sources at S/N rsim5.0 with median
-  redshift and intrinsic 1.2-mm flux of z=2.30 and S_ 1.2mm^ int=0.24. Of these, 27
+  redshift and intrinsic 1.2-mm flux of z=2.30 and S_1.2mm^int=0.24. Of these, 27
   have been spectroscopically confirmed, leveraged by the latest NIRSpec observations,
   while photometric redshift estimates are constrained by the comprehensive HST, NIRCam,
   and ALMA data for the remaining sources. With priors, we further identify a [CII]158
@@ -79,7 +79,7 @@ abstract: We present the survey design and initial results of the ALMA Cycle 9 p
   F150W-F444W>2.3) and 2 JWST-dark (F444W>30mag) galaxy candidates among the ALMA
   continuum sources. The former includes face-on disk galaxies, hinting that substantial
   dust obscuration does not always result from inclination. We also detect a marginal
-  dust emission from an X-ray-detected galaxy at z_ spec=10.07, suggesting an active
+  dust emission from an X-ray-detected galaxy at z_spec=10.07, suggesting an active
   co-evolution of the central black hole and its host. We assess the infrared luminosity
   function up to z∼10 and find it consistent with predictions from galaxy formation
   models. To foster diverse scientific outcomes from the community, we publicly release

@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:08.926085Z'
+publishDate: '2024-01-17T18:30:12.337155Z'
 publication_types:
 - '2'
 abstract: In this letter, we measure the rest-frame optical and near-infrared sizes

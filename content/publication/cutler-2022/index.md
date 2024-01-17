@@ -49,7 +49,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:12.568981Z'
+publishDate: '2024-01-17T18:30:15.937319Z'
 publication_types:
 - '2'
 abstract: We present the H_160 morphological catalogs for the COSMOS-DASH survey,

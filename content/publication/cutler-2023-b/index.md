@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:11.274364Z'
+publishDate: '2024-01-17T18:30:14.605362Z'
 publication_types:
 - '2'
 abstract: 'The Cycle 23 COSMOS-DASH program (Program ID: GO-14114) is a 0.49deg^2

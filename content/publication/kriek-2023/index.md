@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:08.732916Z'
+publishDate: '2024-01-17T18:30:12.151633Z'
 publication_types:
 - '2'
 abstract: In this paper, we present the Heavy Metal Survey, which obtained ultra-deep
@@ -57,14 +57,14 @@ abstract: In this paper, we present the Heavy Metal Survey, which obtained ultra
   paper. Except for one emission-line AGN, all galaxies are confirmed as quiescent
   through their faint or absent Hα emission and evolved stellar spectra. For most
   galaxies exhibiting faint Hα, elevated [NII]/Hα suggests a non-star-forming origin.
-  We calculate dynamical masses (M_ dyn) by combining σ_v with structural parameters
+  We calculate dynamical masses (M_dyn) by combining σ_v with structural parameters
   obtained from HST/COSMOS(-DASH), and compare them with stellar masses (M_*) derived
   using spectrophotometric modeling, considering various assumptions. For a fixed
-  initial mass function (IMF), we observe a strong correlation between M_ dyn/M_*
-  and σ_v. This correlation may suggest that a varying IMF, with high-σ_v galaxies
-  being more bottom-heavy, was already in place at z∼2. When implementing the σ_v-dependent
+  initial mass function (IMF), we observe a strong correlation between M_dyn/M_* and
+  σ_v. This correlation may suggest that a varying IMF, with high-σ_v galaxies being
+  more bottom-heavy, was already in place at z∼2. When implementing the σ_v-dependent
   IMF found in the cores of nearby early-type galaxies and correcting for biases in
-  our stellar mass and size measurements, we find a low scatter in M_ dyn/M_* of 0.14
+  our stellar mass and size measurements, we find a low scatter in M_dyn/M_* of 0.14
   dex. However, these assumptions result in unphysical stellar masses, which exceed
   the dynamical masses by 34%. This tension suggests that distant quiescent galaxies
   do not simply grow inside-out into today's massive early-type galaxies and the evolution

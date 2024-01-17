@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:11.817532Z'
+publishDate: '2024-01-17T18:30:15.174833Z'
 publication_types:
 - '2'
 abstract: We present a study of spatially resolved star formation histories (SFHs)

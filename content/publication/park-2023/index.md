@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:18:10.512457Z'
+publishDate: '2024-01-17T18:30:13.852208Z'
 publication_types:
 - '2'
 abstract: The existence of massive quiescent galaxies at high redshift seems to require
