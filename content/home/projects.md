@@ -15,8 +15,10 @@ content:
       tag: Featured
     - name: Galaxy Evolution
       tag: Galaxy Evolution
-    - name: Surveys
-      tag: Surveys
+    - name: Galaxy Morphology
+      tag: Galaxy Morphology
+    - name: Catalogs
+      tag: Catalogs
     - name: SED Fitting
       tag: SED Fitting
 design:
