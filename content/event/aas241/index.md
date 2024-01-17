@@ -1,5 +1,5 @@
 ---
-abstract: AAS241 - Star Formation Histories and Post-Starburst Galaxies
+abstract: AAS241 - Star Formation Histories and Post Starburst Galaxies
 title: "Measuring Star-Formation Histories at z~2 with a Semi-Resolved Approach"
 location: Seattle, WA, USA
 date: 2023-09-01T10:10:00.000Z
