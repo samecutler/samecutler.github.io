@@ -42,7 +42,7 @@ authors:
 - Katherine A. Suess
 tags: ["Galaxy Evolution", "Galaxy Morphology", "Quenching", "Featured"]
 categories: []
-date: '2023-12-01'
+date: 2023-12-01
 lastmod: 2024-01-16T15:51:18-05:00
 featured: true
 draft: false
