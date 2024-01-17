@@ -86,7 +86,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:30:11.154717Z'
+publishDate: '2024-01-17T20:14:27.812676Z'
 publication_types:
 - '2'
 abstract: In 2022 November, the James Webb Space Telescope (JWST) returned deep near-infrared

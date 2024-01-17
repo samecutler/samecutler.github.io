@@ -19,12 +19,18 @@ main:
   - name: Talks
     url: '#talks'
     weight: 50
-  - name: CV
-    url: uploads/CV.pdf
-    weight: 60
+  - name: UNCOVER
+    url: https://jwst-uncover.github.io
+    weight: 55
+  - name: PRIMER_catalog
+    url: https://primer-jwst.github.io
+    weight: 57
   - name: COSMOS-DASH
     url: https://archive.stsci.edu/hlsp/cosmos-dash
     weight: 60
+  - name: CV
+    url: uploads/CV.pdf
+    weight: 70
   - name: Contact
     url: '#contact'
     weight: 80

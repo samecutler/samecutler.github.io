@@ -48,7 +48,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:30:11.559885Z'
+publishDate: '2024-01-17T20:14:28.216576Z'
 publication_types:
 - '2'
 abstract: Over the past year, JWST has uncovered galaxies at record-breaking distances

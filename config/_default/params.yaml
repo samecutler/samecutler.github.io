@@ -21,9 +21,9 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: secutler@umass.edu
-phone: 860-987-8696
+# phone: 860-987-8696
 address:
-  street: LGRT 623, UMass Amherst Department of Astronomy, 710 North Pleasant Street 
+  street: LGRT 623, UMass Amherst Department of Astronomy, 710 N Pleasant Street
   city: Amherst
   region: MA
   postcode: '01003'

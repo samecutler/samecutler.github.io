@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:30:12.722972Z'
+publishDate: '2024-01-17T20:14:29.416430Z'
 publication_types:
 - '2'
 abstract: 'The era of the James Webb Space Telescope ushers stellar population models

@@ -64,7 +64,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:30:14.787400Z'
+publishDate: '2024-01-17T20:14:31.512823Z'
 publication_types:
 - '2'
 abstract: Early JWST observations have uncovered a new, substantial population of

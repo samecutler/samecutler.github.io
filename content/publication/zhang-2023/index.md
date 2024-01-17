@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:30:13.478067Z'
+publishDate: '2024-01-17T20:14:30.183197Z'
 publication_types:
 - '2'
 abstract: We analyse the joint distribution of dust attenuation and projected axis
@@ -66,7 +66,7 @@ abstract: We analyse the joint distribution of dust attenuation and projected ax
   We discuss implications for the significant wavelength- and redshift-dependent differences
   between half-light and half-mass radii that result from spatially varying dust columns
   within especially massive star-forming galaxies.
-publication: '*mnras*'
+publication: '*Monthly Notices of the Royal Astronomical Society*'
 doi: 10.1093/mnras/stad2066
 links:
 - name: arXiv

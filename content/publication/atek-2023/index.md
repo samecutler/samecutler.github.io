@@ -60,7 +60,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-17T18:30:14.414124Z'
+publishDate: '2024-01-17T20:14:31.131012Z'
 publication_types:
 - '2'
 abstract: Low-mass galaxies in the early universe are believed to be the building
