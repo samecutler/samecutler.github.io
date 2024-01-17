@@ -1,7 +1,7 @@
 ---
 title: PRIMER
 subtitle: A public, photometry survey covering two well-studied fields
-date: 2024-16-01T00:51:36.869Z
+date: 2024-01-17T00:51:36.869Z
 summary: JWST/NIRCam photometric catalogs of the COSMOS and UDS blank fields
 draft: false
 featured: false

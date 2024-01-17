@@ -1,7 +1,7 @@
 ---
 title: UNCOVER
 subtitle: The deepest-to-date JWST survey covering Abell 2744
-date: 2024-16-01T00:51:36.869Z
+date: 2024-01-17T00:51:36.869Z
 summary: JWST/NIRCam survey of the Abell 2744 lensing field and associated photometry catalogs
 draft: false
 featured: false

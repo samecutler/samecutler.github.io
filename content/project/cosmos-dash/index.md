@@ -7,6 +7,7 @@ draft: false
 featured: false
 tags:
   - Galaxy Evolution
+  - Galaxy Morphology
   - Featured
   - Catalogs
 external_link:

@@ -22,7 +22,7 @@ main:
   - name: UNCOVER
     url: https://jwst-uncover.github.io
     weight: 55
-  - name: PRIMER_catalog
+  - name: PRIMER
     url: https://primer-jwst.github.io
     weight: 57
   - name: COSMOS-DASH
