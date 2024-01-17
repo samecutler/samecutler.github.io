@@ -46,7 +46,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2023-08-01'
-lastmod: 2024-01-16T15:45:01-05:00
+lastmod: 2024-01-17T13:14:28-05:00
 featured: false
 draft: false
 
@@ -64,7 +64,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-16T20:45:01.128278Z'
+publishDate: '2024-01-17T18:18:11.446293Z'
 publication_types:
 - '2'
 abstract: Early JWST observations have uncovered a new, substantial population of
@@ -75,20 +75,19 @@ abstract: Early JWST observations have uncovered a new, substantial population o
   (Furtak et al. 2023), allowing an unprecedented detailed look into this enigmatic
   population. Here we present deep spectroscopic JWST/NIRSpec observations of this
   object, Abell2744-QSO1. The spectroscopy confirms that the three images are of the
-  same object, and that it is a highly reddened ($A_V∼3$) broad emission-line Active
-  Galactic Nucleus (AGN) at a redshift of $z_mathrmspec=7.0451±0.0005$. From the width
-  of H$β$ ($mathrmFWHM=2800±250,fracmathrmkmmathrms$) we derive a black hole mass
-  of $M_mathrmBH=3_-1^+2times10^7,mathrmM_ødot$. We infer a very high ratio of black
-  hole to galaxy mass of at least 3% and possibly as high as 100%, an order of magnitude
-  or more than is seen in local galaxies. The lack of strong metal lines in the spectrum
-  together with the high bolometric luminosity ($L _mathrmbol=(1.1±0.3)times10^45,fracmathrmergm
-  athrms$) suggest that we are seeing the black hole in a phase of rapid growth, accreting
-  at 30% of the Eddington limit. Based on early JWST imaging studies we estimate that
-  such heavily reddened, low-mass black holes can be $∼100$ times more common than
-  UV-selected ones at this epoch. The rapid growth and high black hole to galaxy mass
-  ratio of A2744-QSO1 suggests that it may represent the missing link between black
-  hole seeds (Inayoshi et al. 2020; Greene et al. 2020; Volonteri 2021) and the first
-  luminous quasars (Fan et al. 2023).
+  same object, and that it is a highly reddened (A_V∼3) broad emission-line Active
+  Galactic Nucleus (AGN) at a redshift of z_spec=7.0451±0.0005. From the width of
+  Hβ (FWHM=2800±250 km/s) we derive a black hole mass of M_BH=3_-1^+2×10^7 M_⊙. We
+  infer a very high ratio of black hole to galaxy mass of at least 3% and possibly
+  as high as 100%, an order of magnitude or more than is seen in local galaxies. The
+  lack of strong metal lines in the spectrum together with the high bolometric luminosity
+  (L_bol=(1.1±0.3)×10^45 erg/ athrms) suggest that we are seeing the black hole in
+  a phase of rapid growth, accreting at 30% of the Eddington limit. Based on early
+  JWST imaging studies we estimate that such heavily reddened, low-mass black holes
+  can be ∼100 times more common than UV-selected ones at this epoch. The rapid growth
+  and high black hole to galaxy mass ratio of A2744-QSO1 suggests that it may represent
+  the missing link between black hole seeds (Inayoshi et al. 2020; Greene et al. 2020;
+  Volonteri 2021) and the first luminous quasars (Fan et al. 2023).
 publication: '*arXiv e-prints*'
 doi: 10.48550/arXiv.2308.05735
 links:

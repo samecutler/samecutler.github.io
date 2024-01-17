@@ -29,7 +29,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2023-09-01'
-lastmod: 2024-01-16T15:45:00-05:00
+lastmod: 2024-01-17T13:14:27-05:00
 featured: false
 draft: false
 
@@ -47,7 +47,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-16T20:44:59.883105Z'
+publishDate: '2024-01-17T18:18:10.107452Z'
 publication_types:
 - '2'
 abstract: We analyse the joint distribution of dust attenuation and projected axis
@@ -64,8 +64,8 @@ abstract: We analyse the joint distribution of dust attenuation and projected ax
   UV-to-near-IR and far-infrared constraints can be reconciled by invoking clumpier
   dust geometries for galaxies at higher redshifts and/or very compact dust cores.
   We discuss implications for the significant wavelength- and redshift-dependent differences
-  between half- light and half-mass radii that result from spatially varying dust
-  columns within especially massive star-forming galaxies.
+  between half-light and half-mass radii that result from spatially varying dust columns
+  within especially massive star-forming galaxies.
 publication: '*mnras*'
 doi: 10.1093/mnras/stad2066
 links:

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'The Heavy Metal Survey: Star Formation Constraints and Dynamical Masses of
-  21 Massive Quiescent Galaxies at zåisebox-0.5ex~1.4-2.2'
+  21 Massive Quiescent Galaxies at z~1.4-2.2'
 subtitle: ''
 summary: ''
 authors:
@@ -27,7 +27,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2023-11-01'
-lastmod: 2024-01-16T15:44:58-05:00
+lastmod: 2024-01-17T13:14:25-05:00
 featured: false
 draft: false
 
@@ -45,31 +45,30 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-16T20:44:58.585092Z'
+publishDate: '2024-01-17T18:18:08.732916Z'
 publication_types:
 - '2'
-abstract: In this paper, we present the Heavy Metal Survey, which obtained ultra-
-  deep medium-resolution spectra of 21 massive quiescent galaxies at $1.4łesssim złesssim
-  2.2$ with Keck/LRIS and MOSFIRE. With integration times of up to 16 hrs per band
-  per galaxy, we observe numerous Balmer and metal absorption lines in atmospheric
-  windows. We successfully derive spectroscopic redshifts for all 21 galaxies and
-  for 19 we also measure stellar velocity dispersions ($σ_v$), ages, and elemental
-  abundances, as detailed in an accompanying paper. Except for one emission-line AGN,
-  all galaxies are confirmed as quiescent through their faint or absent H$α$ emission
-  and evolved stellar spectra. For most galaxies exhibiting faint H$α$, elevated [NII]/H$α$
-  suggests a non-star-forming origin. We calculate dynamical masses ($M_m̊ dyn$) by
-  combining $σ_v$ with structural parameters obtained from HST/COSMOS(-DASH), and
-  compare them with stellar masses ($M_*$) derived using spectrophotometric modeling,
-  considering various assumptions. For a fixed initial mass function (IMF), we observe
-  a strong correlation between $M_ ̊dyn/M_*$ and $σ_v$. This correlation may suggest
-  that a varying IMF, with high-$σ_v$ galaxies being more bottom-heavy, was already
-  in place at $z∼2$. When implementing the $σ_v$-dependent IMF found in the cores
-  of nearby early-type galaxies and correcting for biases in our stellar mass and
-  size measurements, we find a low scatter in $M_rd̊yn/M_*$ of 0.14 dex. However,
-  these assumptions result in unphysical stellar masses, which exceed the dynamical
-  masses by 34%. This tension suggests that distant quiescent galaxies do not simply
-  grow inside-out into today's massive early-type galaxies and the evolution is more
-  complicated.
+abstract: In this paper, we present the Heavy Metal Survey, which obtained ultra-deep
+  medium-resolution spectra of 21 massive quiescent galaxies at 1.4≲ z≲ 2.2 with Keck/LRIS
+  and MOSFIRE. With integration times of up to 16 hrs per band per galaxy, we observe
+  numerous Balmer and metal absorption lines in atmospheric windows. We successfully
+  derive spectroscopic redshifts for all 21 galaxies and for 19 we also measure stellar
+  velocity dispersions (σ_v), ages, and elemental abundances, as detailed in an accompanying
+  paper. Except for one emission-line AGN, all galaxies are confirmed as quiescent
+  through their faint or absent Hα emission and evolved stellar spectra. For most
+  galaxies exhibiting faint Hα, elevated [NII]/Hα suggests a non-star-forming origin.
+  We calculate dynamical masses (M_ dyn) by combining σ_v with structural parameters
+  obtained from HST/COSMOS(-DASH), and compare them with stellar masses (M_*) derived
+  using spectrophotometric modeling, considering various assumptions. For a fixed
+  initial mass function (IMF), we observe a strong correlation between M_ dyn/M_*
+  and σ_v. This correlation may suggest that a varying IMF, with high-σ_v galaxies
+  being more bottom-heavy, was already in place at z∼2. When implementing the σ_v-dependent
+  IMF found in the cores of nearby early-type galaxies and correcting for biases in
+  our stellar mass and size measurements, we find a low scatter in M_ dyn/M_* of 0.14
+  dex. However, these assumptions result in unphysical stellar masses, which exceed
+  the dynamical masses by 34%. This tension suggests that distant quiescent galaxies
+  do not simply grow inside-out into today's massive early-type galaxies and the evolution
+  is more complicated.
 publication: '*arXiv e-prints*'
 doi: 10.48550/arXiv.2311.16232
 links:

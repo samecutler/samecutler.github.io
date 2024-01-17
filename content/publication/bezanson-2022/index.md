@@ -53,7 +53,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2022-12-01'
-lastmod: 2024-01-16T15:45:02-05:00
+lastmod: 2024-01-17T13:14:29-05:00
 featured: false
 draft: false
 
@@ -71,25 +71,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-16T20:45:01.877231Z'
+publishDate: '2024-01-17T18:18:12.176537Z'
 publication_types:
 - '2'
 abstract: In this paper we describe the survey design for the Ultradeep NIRSpec and
   NIRCam ObserVations before the Epoch of Reionization (UNCOVER) Cycle 1 JWST Treasury
   program, which executed its early imaging component in November 2022. The UNCOVER
-  survey includes ultradeep ($∼29-30mathrmAB$) imaging of $∼$45 arcmin$^2$ on and
-  around the well-studied Abell 2744 galaxy cluster at $z=0.308$ and will follow-up
-  $∼500$ galaxies with extremely deep low-resolution spectroscopy with the NIRSpec/PRISM
-  during the summer of 2023. We describe the science goals, survey design, target
-  selection, and planned data releases. We also present and characterize the depths
-  of the first NIRCam imaging mosaic, highlighting previously unparalleled resolved
-  and ultradeep 2-4 micron imaging of known objects in the field. The UNCOVER primary
-  NIRCam mosaic spans 28.8 arcmin$^2$ in seven filters (F115W, F150W, F200W, F277W,
-  F356W, F410M, F444W) and 16.8 arcmin$^2$ in our NIRISS parallel (F115W, F150W, F200W,
-  F356W, and F444W). To maximize early community use of the Treasury data set, we
-  publicly release full reduced mosaics of public JWST imaging including 45 arcmin$^2$
-  NIRCam and 17 arcmin$^2$ NIRISS mosaics on and around the Abell 2744 cluster, including
-  the Hubble Frontier Field primary and parallel footprints.
+  survey includes ultradeep (∼29-30AB) imaging of ∼45 arcmin^2 on and around the well-studied
+  Abell 2744 galaxy cluster at z=0.308 and will follow-up ∼500 galaxies with extremely
+  deep low-resolution spectroscopy with the NIRSpec/PRISM during the summer of 2023.
+  We describe the science goals, survey design, target selection, and planned data
+  releases. We also present and characterize the depths of the first NIRCam imaging
+  mosaic, highlighting previously unparalleled resolved and ultradeep 2-4 micron imaging
+  of known objects in the field. The UNCOVER primary NIRCam mosaic spans 28.8 arcmin^2
+  in seven filters (F115W, F150W, F200W, F277W, F356W, F410M, F444W) and 16.8 arcmin^2
+  in our NIRISS parallel (F115W, F150W, F200W, F356W, and F444W). To maximize early
+  community use of the Treasury data set, we publicly release full reduced mosaics
+  of public JWST imaging including 45 arcmin^2 NIRCam and 17 arcmin^2 NIRISS mosaics
+  on and around the Abell 2744 cluster, including the Hubble Frontier Field primary
+  and parallel footprints.
 publication: '*arXiv e-prints*'
 doi: 10.48550/arXiv.2212.04026
 links:

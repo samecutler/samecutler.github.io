@@ -40,7 +40,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2023-06-01'
-lastmod: 2024-01-16T15:45:01-05:00
+lastmod: 2024-01-17T13:14:28-05:00
 featured: false
 draft: false
 
@@ -58,30 +58,29 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-16T20:45:01.305449Z'
+publishDate: '2024-01-17T18:18:11.631533Z'
 publication_types:
 - '2'
 abstract: The James Webb Space Telescope (JWST) is revolutionizing our knowledge of
-  $z>5$ galaxies and their actively accreting black holes. Using the JWST Cycle 1
-  Treasury program Ultradeep NIRSpec and NIRCam ObserVations before the Epoch of Reionization
+  z>5 galaxies and their actively accreting black holes. Using the JWST Cycle 1 Treasury
+  program Ultradeep NIRSpec and NIRCam ObserVations before the Epoch of Reionization
   (UNCOVER) in the lensing field Abell 2744, we report the identification of a sample
-  of little red dots at $3 < z_m̊phot < 7$ that likely contain highly-reddened accreting
-  supermassive black holes. Using a NIRCam-only selection to F444W$<27.7$ mag, we
-  find 26 sources over the $∼45$ arcmin$^2$ field that are blue in F115W$-$F200W$∼0$
-  (or $β_ ̊UV∼-2.0$ for $f_łambda ∝ łambda^β$), red in F200W$-$F444W = $1-4$ ($β_ro̊pt
-  ∼ +2.0$), and are dominated by a point-source like central component. Of the 20
-  sources with deep ALMA 1.2-mm coverage, none are detected individually or in a stack.
-  For the majority of the sample, SED fits to the JWST+ALMA observations prefer models
-  with hot dust rather than obscured star-formation to reproduce the red NIRCam colors
-  and ALMA 1.2-mm non-detections. While compact dusty star formation can not be ruled
-  out, the combination of extremely small sizes ($łangle r_e ral̊e≈50$ pc after correction
-  for magnification), red rest-frame optical slopes, and hot dust can by explained
-  by reddened broad-line active galactic nuclei (AGNs). Our targets have faint $M_rm
-  5̊0 ≈ -14 , rm t ̊-18$ mag but inferred bolometric luminosities of $L_rm bo ̊= 10^43-10^46$
-  erg/s, reflecting their obscured nature. If the candidates are confirmed as AGNs
-  with upcoming UNCOVER spectroscopy, then we have found an abundant population of
-  reddened luminous AGN that are at least ten times more numerous than UV-luminous
-  AGN at the same intrinsic bolometric luminosity.
+  of little red dots at 3 < z_phot < 7 that likely contain highly-reddened accreting
+  supermassive black holes. Using a NIRCam-only selection to F444W<27.7 mag, we find
+  26 sources over the ∼45 arcmin^2 field that are blue in F115W-F200W∼0 (or β_ UV∼-2.0
+  for f_λ∝λ^β), red in F200W-F444W = 1-4 (β_ opt∼ +2.0), and are dominated by a point-source
+  like central component. Of the 20 sources with deep ALMA 1.2-mm coverage, none are
+  detected individually or in a stack. For the majority of the sample, SED fits to
+  the JWST+ALMA observations prefer models with hot dust rather than obscured star-formation
+  to reproduce the red NIRCam colors and ALMA 1.2-mm non-detections. While compact
+  dusty star formation can not be ruled out, the combination of extremely small sizes
+  (⟨ r_e ⟩≈50 pc after correction for magnification), red rest-frame optical slopes,
+  and hot dust can by explained by reddened broad-line active galactic nuclei (AGNs).
+  Our targets have faint M_ 1450≈ -14   to -18 mag but inferred bolometric luminosities
+  of L_ bol = 10^43-10^46 erg/s, reflecting their obscured nature. If the candidates
+  are confirmed as AGNs with upcoming UNCOVER spectroscopy, then we have found an
+  abundant population of reddened luminous AGN that are at least ten times more numerous
+  than UV-luminous AGN at the same intrinsic bolometric luminosity.
 publication: '*arXiv e-prints*'
 doi: 10.48550/arXiv.2306.07320
 links:

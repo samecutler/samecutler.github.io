@@ -68,7 +68,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2024-01-01'
-lastmod: 2024-01-16T15:44:57-05:00
+lastmod: 2024-01-17T13:14:24-05:00
 featured: false
 draft: false
 
@@ -86,7 +86,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-16T20:44:57.645908Z'
+publishDate: '2024-01-17T18:18:07.758584Z'
 publication_types:
 - '2'
 abstract: In 2022 November, the James Webb Space Telescope (JWST) returned deep near-infrared
@@ -94,20 +94,19 @@ abstract: In 2022 November, the James Webb Space Telescope (JWST) returned deep 
   galaxies beyond it. Together with existing Hubble Space Telescope (HST) imaging,
   this publicly available data set opens a fundamentally new discovery space to understand
   the remaining mysteries of the formation and evolution of galaxies across cosmic
-  time. In this work, we detect and measure some 60,000 objects across the 49 arcmin$^2$
-  JWST footprint down to a 5ensuremathσ limiting magnitude of åisebox-0.5ex~30 mag
-  in 0.″32 apertures. Photometry is performed using circular apertures on images matched
-  to the point-spread function (PSF) of the reddest NIRCam broad band, F444W, and
-  cleaned of bright cluster galaxies and the related intracluster light. To give an
-  impression of the photometric performance, we measure photometric redshifts and
-  achieve a ensuremathσ $_NMAD$ ensuremath≈ 0.03 based on known, but relatively small,
-  spectroscopic samples. With this paper, we publicly release our HST and JWST PSF-matched
-  photometric catalog with optimally assigned aperture sizes for easy use, along with
-  single aperture catalogs, photometric redshifts, rest-frame colors, and individual
-  magnification estimates. These catalogs will set the stage for efficient and deep
-  spectroscopic follow up of some of the first JWST-selected samples in summer of
-  2023.
-publication: '*apjs*'
+  time. In this work, we detect and measure some 60,000 objects across the 49 arcmin^2
+  JWST footprint down to a 5σ limiting magnitude of~30 mag in 0.″32 apertures. Photometry
+  is performed using circular apertures on images matched to the point-spread function
+  (PSF) of the reddest NIRCam broad band, F444W, and cleaned of bright cluster galaxies
+  and the related intracluster light. To give an impression of the photometric performance,
+  we measure photometric redshifts and achieve a σ_NMAD ≈ 0.03 based on known, but
+  relatively small, spectroscopic samples. With this paper, we publicly release our
+  HST and JWST PSF-matched photometric catalog with optimally assigned aperture sizes
+  for easy use, along with single aperture catalogs, photometric redshifts, rest-frame
+  colors, and individual magnification estimates. These catalogs will set the stage
+  for efficient and deep spectroscopic follow up of some of the first JWST-selected
+  samples in summer of 2023.
+publication: '*The Astrophysical Journal Supplement Series*'
 doi: 10.3847/1538-4365/ad07e0
 links:
 - name: arXiv

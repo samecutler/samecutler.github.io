@@ -35,7 +35,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2022-07-01'
-lastmod: 2024-01-16T15:45:02-05:00
+lastmod: 2024-01-17T13:14:29-05:00
 featured: false
 draft: false
 
@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-16T20:45:02.046620Z'
+publishDate: '2024-01-17T18:18:12.377443Z'
 publication_types:
 - '2'
 abstract: The 3D-Drift And SHift (3D-DASH) program is a Hubble Space Telescope (HST)
@@ -66,13 +66,13 @@ abstract: The 3D-Drift And SHift (3D-DASH) program is a Hubble Space Telescope (
   of intermediate redshift (0.5 < z < 2) galaxies. Here we present the reduced F160W
   imaging mosaic available to the community. Observed with the efficient DASH technique,
   the mosaic comprises 1256 individual WFC3 pointings, corresponding to an area of
-  1.35 deg$^2$ (1.43 deg$^2$ in 1912 when including archival data). The median 5ensuremathσ
-  point-source limit in H $_160$ is 24.74 ensuremath± 0.20 mag. We also provide a
-  point-spread function (PSF) generator tool to determine the PSF at any location
-  within the 3D-DASH footprint. 3D-DASH is the widest HST/WFC3 imaging survey in the
-  F160W filter to date, increasing the existing extragalactic survey area in the near-
-  infrared at HST resolution by an order of magnitude.
-publication: '*apj*'
+  1.35 deg^2 (1.43 deg^2 in 1912 when including archival data). The median 5σ point-source
+  limit in H_160 is 24.74 ± 0.20 mag. We also provide a point-spread function (PSF)
+  generator tool to determine the PSF at any location within the 3D-DASH footprint.
+  3D-DASH is the widest HST/WFC3 imaging survey in the F160W filter to date, increasing
+  the existing extragalactic survey area in the near-infrared at HST resolution by
+  an order of magnitude.
+publication: '*The Astrophysical Journal*'
 doi: 10.3847/1538-4357/ac71af
 links:
 - name: arXiv

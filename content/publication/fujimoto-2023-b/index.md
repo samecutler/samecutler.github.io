@@ -47,7 +47,7 @@ tags:
 - Astrophysics - Cosmology and Nongalactic Astrophysics
 categories: []
 date: '2023-08-01'
-lastmod: 2024-01-16T15:44:59-05:00
+lastmod: 2024-01-17T13:14:27-05:00
 featured: false
 draft: false
 
@@ -65,31 +65,30 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-16T20:45:00.401245Z'
+publishDate: '2024-01-17T18:18:10.693214Z'
 publication_types:
 - '2'
 abstract: We present JWST NIRSpec prism spectroscopy of gravitationally lensed galaxies
-  at $zrsim9$ found behind the massive galaxy cluster Abell 2744 in the UNCOVER Cycle
+  at zrsim9 found behind the massive galaxy cluster Abell 2744 in the UNCOVER Cycle
   1 Treasury Program. We confirm the source redshift via emission lines and/or the
-  Ly$α$ break feature for ten galaxies at z=8.50-13.08 down to $M_m̊ UV=-17.3$. We
-  achieve a high confirmation rate of 100% for $z>9$ candidates reported in Atek et
-  al. (2023). Using six sources with multiple emission line detections, we find that
-  the offset of the redshift estimates between the lines and the Ly$α$ break alone
-  with prism can be as large as $±0.2$, raising caution in designing future follow-up
-  spectroscopy for the break-only sources. With spec-$z$ confirmed sources in UNCOVER
-  and the literature, we derive lower limits on the rest-frame ultraviolet (UV) luminosity
-  function (LF) at $z∼eq9$-12 and find these lower limits to be consistent with recent
-  photometric measurements. We identify at least two unambiguous and several possible
-  active galactic nucleus (AGN) systems based on X-ray emission, broad line (BL) H$β$,
-  high ionization line (e.g., NIV]1487, CIV1549) detections, and excess in UVLF. This
-  requires the AGN LFs at $z∼eq$ 9-10 to be comparable or even higher than the X-ray
-  AGN LF estimated at $z∼6$ and indicates a plausible cause of the high abundance
-  of $z>9$ galaxies claimed in recent photometric studies may be AGNs. One UV-luminous
-  source is confirmed at the same redshift as a dusty BL AGN at $z=8.50$ with a physical
-  separation of 380 kpc in the source plane. These two sources show blueward Ly$α$
-  line or continuum emission, suggesting that they reside in the same ionized bubble
-  with a radius of $7.69±0.18$ pMpc. Our results imply that AGNs have a non-negligible
-  contribution to cosmic reionization.
+  Lyα break feature for ten galaxies at z=8.50-13.08 down to M_ UV=-17.3. We achieve
+  a high confirmation rate of 100% for z>9 candidates reported in Atek et al. (2023).
+  Using six sources with multiple emission line detections, we find that the offset
+  of the redshift estimates between the lines and the Lyα break alone with prism can
+  be as large as ±0.2, raising caution in designing future follow-up spectroscopy
+  for the break-only sources. With spec-z confirmed sources in UNCOVER and the literature,
+  we derive lower limits on the rest-frame ultraviolet (UV) luminosity function (LF)
+  at z≃9-12 and find these lower limits to be consistent with recent photometric measurements.
+  We identify at least two unambiguous and several possible active galactic nucleus
+  (AGN) systems based on X-ray emission, broad line (BL) Hβ, high ionization line
+  (e.g., NIV]1487, CIV1549) detections, and excess in UVLF. This requires the AGN
+  LFs at z≃ 9-10 to be comparable or even higher than the X-ray AGN LF estimated at
+  z∼6 and indicates a plausible cause of the high abundance of z>9 galaxies claimed
+  in recent photometric studies may be AGNs. One UV-luminous source is confirmed at
+  the same redshift as a dusty BL AGN at z=8.50 with a physical separation of 380
+  kpc in the source plane. These two sources show blueward Lyα line or continuum emission,
+  suggesting that they reside in the same ionized bubble with a radius of 7.69±0.18
+  pMpc. Our results imply that AGNs have a non-negligible contribution to cosmic reionization.
 publication: '*arXiv e-prints*'
 doi: 10.48550/arXiv.2308.11609
 links:

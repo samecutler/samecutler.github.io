@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'The UNCOVER Survey: A First-look HST+JWST Catalog of Galaxy Redshifts and
-  Stellar Population Properties Spanning 0.2 ensuremathłesssim z ensuremathłesssim
-  15'
+  Stellar Population Properties Spanning 0.2 ≲ z ≲ 15'
 subtitle: ''
 summary: ''
 authors:
@@ -67,7 +66,7 @@ tags:
 - Astrophysics - Astrophysics of Galaxies
 categories: []
 date: '2024-01-01'
-lastmod: 2024-01-16T15:44:57-05:00
+lastmod: 2024-01-17T13:14:24-05:00
 featured: false
 draft: false
 
@@ -85,31 +84,30 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-16T20:44:57.451104Z'
+publishDate: '2024-01-17T18:18:07.536399Z'
 publication_types:
 - '2'
 abstract: 'The recent UNCOVER survey with the James Webb Space Telescope (JWST) exploits
   the nearby cluster A2744 to create the deepest view of our Universe to date by leveraging
   strong gravitational lensing. In this work, we perform photometric fitting of more
-  than 50,000 robustly detected sources out to z åisebox-0.5ex~ 15. We show the redshift
-  evolution of stellar ages, star formation rates, and rest-frame colors across the
-  full range of 0.2 ensuremathłesssim z ensuremathłesssim 15. The galaxy properties
-  are inferred using the Prospector Bayesian inference framework using informative
-  Prospector-ensuremathβ priors on the masses and star formation histories to produce
-  joint redshift and stellar populations posteriors. Additionally, lensing magnification
-  is performed on the fly to ensure consistency with the scale-dependent priors. We
-  show that this approach produces excellent photometric redshifts with ensuremathσ
-  $_NMAD$ i̊sebox-0.5ex~ 0.03, of a similar quality to the established photometric
+  than 50,000 robustly detected sources out to z~15. We show the redshift evolution
+  of stellar ages, star formation rates, and rest-frame colors across the full range
+  of 0.2 ≲ z ≲ 15. The galaxy properties are inferred using the Prospector Bayesian
+  inference framework using informative Prospector-β priors on the masses and star
+  formation histories to produce joint redshift and stellar populations posteriors.
+  Additionally, lensing magnification is performed on the fly to ensure consistency
+  with the scale-dependent priors. We show that this approach produces excellent photometric
+  redshifts with σ_NMAD~0.03, of a similar quality to the established photometric
   redshift code EAzY. In line with the open-source scientific objective of this Treasury
   survey, we publicly release the stellar population catalog with this paper, derived
   from our photometric catalog adapting aperture sizes based on source profiles. This
   release (the catalog and all related documentation are accessible via the UNCOVER
-  survey web page: https://jwst- uncover.github.io/DR2.html#SPSCatalogs with a copy
+  survey web page: https://jwst-uncover.github.io/DR2.html#SPSCatalogs with a copy
   deposited to Zenodo at doi:10.5281/zenodo.8401181) includes posterior moments, maximum
   likelihood spectra, star formation histories, and full posterior distributions,
   offering a rich data set to explore the processes governing galaxy formation and
   evolution over a parameter space now accessible by JWST.'
-publication: '*apjs*'
+publication: '*The Astrophysical Journal Supplement Series*'
 doi: 10.3847/1538-4365/ad0846
 links:
 - name: arXiv
