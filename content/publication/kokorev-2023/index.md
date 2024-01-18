@@ -80,7 +80,7 @@ abstract: Deep observations with the James Webb Space Telescope (JWST) have reve
   luminosity of L_bol~6.6 × 10^45 erg s^-1. These values imply that our object is
   accreting at~40% of the Eddington limit. Detailed modeling of the spectral energy
   distribution in the optical and near-infrared, together with constraints from ALMA,
-  indicate an upper limit on the stellar mass of log_10(M_* /M_⊙) 8.7 , which would
+  indicate an upper limit on the stellar mass of log_10(M_* /M_⊙)<8.7 , which would
   lead to an unprecedented ratio of black hole to host mass of at least~30%. This
   is orders of magnitude higher compared to the local QSOs but consistent with recent
   AGN studies at high redshift with JWST. This finding suggests that a nonnegligible
