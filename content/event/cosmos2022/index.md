@@ -23,4 +23,4 @@ url_code: ""
 url_slides: "uploads/cosmos2022.pdf"
 ---
 
-{{< gallery album="<cosmos2022>" >}}
+{{< gallery album="cosmos2022" >}}

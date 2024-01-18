@@ -23,4 +23,4 @@ url_code: ""
 url_slides: "uploads/aas243.pdf"
 ---
 
-{{< gallery album="<aas243>" >}}
+{{< gallery album="aas243" >}}
