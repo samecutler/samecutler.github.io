@@ -1,5 +1,5 @@
 ---
-title: Quiescent Galaxy Sizes with JWST
+title: Two Classes of Quiescent Galaxies
 subtitle: Low-mass quiescent galaxies form a different population at cosmic noon
 date: 2024-01-17T00:51:36.869Z
 summary: JWST-based sizes and structural measurements for cosmic noon quiescent galaxies in the PRIMER and UNCOVER surveys
