@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "The Differential Assembly History of the Centers and Outskirts of Main Sequence Galaxies at $z∼2.3$"
-date: 2022-08-01
+date: 2023-03-01
 publishDate: '2024-01-16T20:51:18.493492Z'
 authors: ["Sam E. Cutler", "Mauro Giavalisco", "Zhiyuan Ji", "Yingjie Cheng"]
 publication_types: ["2"]
@@ -29,7 +29,7 @@ image:
 subtitle: ''
 
 categories: []
-lastmod: 2024-01-16T15:51:18-05:00
+lastmod: 2024-05-29T15:51:18-05:00
 featured: true
 draft: false
 ---
