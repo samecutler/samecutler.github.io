@@ -32,9 +32,9 @@ jobs:
           # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: ${{ env.WC_HUGO_VERSION }}
+          hugo-version: '0.119.0'
           extended: true
       - uses: actions/cache@v3
         with:
@@ -54,7 +54,7 @@ jobs:
       - name: Generate Pagefind search index
         run: npx pagefind --source "public"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
