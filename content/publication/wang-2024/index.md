@@ -1,10 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'The UNCOVER Survey: A First-look HST+JWST Catalog of Galaxy Redshifts and
-  Stellar Population Properties Spanning 0.2 ≲ z ≲ 15'
-subtitle: ''
-summary: ''
+  Stellar Population Properties Spanning 0.2 łesssim z łesssim 15'
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Bingjie Wang
 - Joel Leja
@@ -50,12 +51,38 @@ authors:
 - Katherine A. Suess
 - Edward N. Taylor
 - Christina C. Williams
+
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
+date: '2024-01-01'
+
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2025-08-26T17:39:45.628895Z'
+
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+publication_types:
+- article-journal
+
+# Publication name and optional abbreviated publication name.
+publication: '*The Astrophysical Journal Supplement Series*'
+publication_short: ''
+
+doi: 10.3847/1538-4365/ad0846
+
+abstract: ''
+
+# Summary. An optional shortened abstract.
+summary: ''
+
 tags:
 - Abell clusters
 - Catalogs
 - Galaxy evolution
-- James Webb Space Telescope
-- Hubble Space Telescope
+- James webb space telescope
+- Hubble space telescope
 - Spectral energy distribution
 - '9'
 - '205'
@@ -63,53 +90,42 @@ tags:
 - '2291'
 - '761'
 - '2129'
-- Astrophysics - Astrophysics of Galaxies
-categories: []
-date: '2024-01-01'
-lastmod: 2024-01-17T13:14:24-05:00
-featured: false
-draft: false
+- Astrophysics - astrophysics of galaxies
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
 projects: []
-publishDate: '2024-01-17T20:14:27.469661Z'
-publication_types:
-- '2'
-abstract: 'The recent UNCOVER survey with the James Webb Space Telescope (JWST) exploits
-  the nearby cluster A2744 to create the deepest view of our Universe to date by leveraging
-  strong gravitational lensing. In this work, we perform photometric fitting of more
-  than 50,000 robustly detected sources out to z~15. We show the redshift evolution
-  of stellar ages, star formation rates, and rest-frame colors across the full range
-  of 0.2 ≲ z ≲ 15. The galaxy properties are inferred using the Prospector Bayesian
-  inference framework using informative Prospector-β priors on the masses and star
-  formation histories to produce joint redshift and stellar populations posteriors.
-  Additionally, lensing magnification is performed on the fly to ensure consistency
-  with the scale-dependent priors. We show that this approach produces excellent photometric
-  redshifts with σ_NMAD~0.03, of a similar quality to the established photometric
-  redshift code EAzY. In line with the open-source scientific objective of this Treasury
-  survey, we publicly release the stellar population catalog with this paper, derived
-  from our photometric catalog adapting aperture sizes based on source profiles. This
-  release (the catalog and all related documentation are accessible via the UNCOVER
-  survey web page: https://jwst-uncover.github.io/DR2.html#SPSCatalogs with a copy
-  deposited to Zenodo at doi:10.5281/zenodo.8401181) includes posterior moments, maximum
-  likelihood spectra, star formation histories, and full posterior distributions,
-  offering a rich data set to explore the processes governing galaxy formation and
-  evolution over a parameter space now accessible by JWST.'
-publication: '*The Astrophysical Journal Supplement Series*'
-doi: 10.3847/1538-4365/ad0846
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2310.01276
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

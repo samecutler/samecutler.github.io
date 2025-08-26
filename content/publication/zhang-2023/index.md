@@ -1,9 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Dust attenuation, dust content, and geometry of star-forming galaxies
-subtitle: ''
-summary: ''
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Junkai Zhang
 - Stijn Wuyts
@@ -19,56 +20,75 @@ authors:
 - Carolin Villforth
 - David Wake
 - Arjen van der Wel
-tags:
-- 'galaxies: evolution'
-- 'galaxies: general'
-- 'galaxies: disc'
-- 'galaxies: ISM'
-- 'galaxies: stellar content'
-- 'galaxies: structure'
-- Astrophysics - Astrophysics of Galaxies
-categories: []
-date: '2023-09-01'
-lastmod: 2024-01-17T13:14:27-05:00
-featured: false
-draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
+date: '2023-09-01'
+
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2025-08-26T17:39:45.664896Z'
+
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+publication_types:
+- article-journal
+
+# Publication name and optional abbreviated publication name.
+publication: '*Monthly Notices of the Royal Astronomical Society*'
+publication_short: ''
+
+doi: 10.1093/mnras/stad2066
+
+abstract: ''
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags:
+- 'Galaxies: evolution'
+- 'Galaxies: general'
+- 'Galaxies: disc'
+- 'Galaxies: ism'
+- 'Galaxies: stellar content'
+- 'Galaxies: structure'
+- Astrophysics - astrophysics of galaxies
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
 projects: []
-publishDate: '2024-01-17T20:14:30.183197Z'
-publication_types:
-- '2'
-abstract: We analyse the joint distribution of dust attenuation and projected axis
-  ratios, together with galaxy size and surface brightness profile information, to
-  infer lessons on the dust content and star/dust geometry within star-forming galaxies
-  at 0 < z < 2.5. To do so, we make use of large observational data sets from KiDS
-  + VIKING + HSC-SSP and extend the analysis out to redshift z = 2.5 using the HST
-  surveys CANDELS and 3D-DASH. We construct suites of SKIRT radiative transfer models
-  for idealized galaxies observed under random viewing angles with the aim of reproducing
-  the aforementioned distributions, including the level and inclination dependence
-  of dust attenuation. We find that attenuation-based dust mass estimates are at odds
-  with constraints from far-infrared observations, especially at higher redshifts,
-  when assuming smooth star and dust geometries of equal extent. We demonstrate that
-  UV-to-near-IR and far-infrared constraints can be reconciled by invoking clumpier
-  dust geometries for galaxies at higher redshifts and/or very compact dust cores.
-  We discuss implications for the significant wavelength- and redshift-dependent differences
-  between half-light and half-mass radii that result from spatially varying dust columns
-  within especially massive star-forming galaxies.
-publication: '*Monthly Notices of the Royal Astronomical Society*'
-doi: 10.1093/mnras/stad2066
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2307.02568
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
