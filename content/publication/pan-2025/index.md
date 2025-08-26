@@ -37,7 +37,7 @@ author_notes: []
 date: '2025-04-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.394494Z'
+publishDate: '2025-08-26T19:44:23.366376Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -50,7 +50,27 @@ publication_short: ''
 
 doi: 10.48550/arXiv.2504.06334
 
-abstract: ''
+abstract: Environmental quenching -- where interactions with other galaxies and/or
+  the intra-cluster medium (ICM) suppress star formation in low-mass galaxies -- has
+  long been proposed as the primary driver to establish the red sequence for low-mass
+  galaxies within clusters at low redshift (z<1). However, we still do not know whether
+  these environmental quenching mechanisms are also active at higher redshifts in
+  proto-cluster environments that have yet to fully virialize. In large part, this
+  regime has remained unexplored due to observational limitations; however, the James
+  Webb Space Telescope has recently opened a new window into the role of environmental
+  quenching on low-mass (log(M_⋆/M_⊙)<9.5) galaxies at cosmic noon (2 < z < 3). Here,
+  we use data from the JWST UNCOVER and MegaScience programs to directly probe the
+  role of environmental quenching on low-mass galaxies in a newly-discovered z≈ 2.6
+  overdensity. Leveraging the deep imaging and R ∼ 15 spectrophotometry enabled by
+  these JWST/NIRCam data, we analyze the stellar populations and inferred star formation
+  histories (SFHs) of 20 low-mass (8.5<log(M_⋆/M_⊙)leq9.0) quiescent galaxies in the
+  overdense environment and compare to a similar sample of 18 such galaxies in the
+  field. The SFHs of quiescent galaxies in the proto-cluster and field across the
+  entire probed stellar mass regime (8.5<log(M_⋆/M_⊙)leq11.0) are indistinguishable,
+  demonstrating that the environment at cosmic noon is not yet accelerating quenching
+  compared to the field. This is consistent with expectations that proto-clusters
+  at z>2 have yet to virialize and develop a dense enough environment to efficiently
+  quench low-mass galaxies.
 
 # Summary. An optional shortened abstract.
 summary: ''

@@ -39,7 +39,7 @@ author_notes: []
 date: '2025-04-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.401090Z'
+publishDate: '2025-08-26T19:44:23.371871Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -52,7 +52,28 @@ publication_short: ''
 
 doi: 10.48550/arXiv.2504.10572
 
-abstract: ''
+abstract: Low-mass quiescent galaxies are thought to predominantly reside in overdense
+  regions, as environmental effects are often invoked to explain their shutdown of
+  star formation. These longer-timescale quenching mechanisms - such as interactions
+  with hot gas in the intracluster medium and dynamical encounters with other cluster
+  galaxies - leave imprints on galaxy morphologies, emphasizing the importance of
+  quantifying the structures of low-mass quiescent galaxies in galaxy clusters at
+  z<0.5. Using spectrophotometric data from the UNCOVER and MegaScience programs,
+  we present the first measurement of the quiescent size-mass relation between 7<log(M_⋆/M_⊙)<10
+  using JWST imaging, based on a sample of 1531 galaxies in the z=0.308 Abell 2744
+  galaxy cluster. The resulting size-mass relation has a significantly higher scatter
+  than similar-redshift field samples, despite comparable best-fit relations in both
+  the dwarf and intermediate-mass regimes. Both ``progenitor bias'', where larger,
+  diskier low-mass galaxies enter the cluster at later epochs, and a general expansion
+  of galaxy structure from dynamical interactions could be at play. This evolutionary
+  framework is further supported by the tentative evidence that older low-mass quiescent
+  galaxies in the cluster are more spheroidal. The star-formation histories derived
+  for our cluster sample imply their formation and quenching occurs relatively late,
+  at z<1.5. In this scenario, the progenitor population would have disky axis-ratio
+  distributions at cosmic noon, in agreement with recent observations. While this
+  leaves ample time for dynamical interactions to maintain quiescence and drive the
+  observed subsequent morphological evolution post-quenching, the data disfavors an
+  onset of quenching due to the environment.
 
 # Summary. An optional shortened abstract.
 summary: ''

@@ -24,7 +24,7 @@ authors:
 - Ikki Mitsuhashi
 - Alexandra Pope
 - Anna Sajina
-- Ghassan T. E. Sarrouh
+- Ghassan T.~E. Sarrouh
 - Monu Sharma
 - Mauro Stefanon
 - Katherine E. Whitaker
@@ -51,7 +51,7 @@ authors:
 - Ilias Goovaerts
 - Jenny E. Greene
 - Naadiyah Jagga
-- William W. H. Jarvis
+- William W.~H. Jarvis
 - Mariska Kriek
 - Gourav Khullar
 - Valentina La Torre
@@ -99,7 +99,7 @@ author_notes: []
 date: '2025-07-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.350266Z'
+publishDate: '2025-08-26T19:44:23.332154Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -112,7 +112,27 @@ publication_short: ''
 
 doi: 10.48550/arXiv.2507.19706
 
-abstract: ''
+abstract: 'We present an overview of the MINERVA survey, a 259.8 hour (prime) and
+  127 hour (parallel) Cycle 4 treasury program on the James Webb Space Telescope (JWST).
+  MINERVA is obtaining 8 filter NIRCam medium band imaging (F140M, F162M, F182M, F210M,
+  F250M, F300M, F360M, F460M) and 2 filter MIRI imaging (F1280W, F1500W) in four of
+  the five CANDELS Extragalactic fields: UDS, COSMOS, AEGIS and GOODS-N. These fields
+  were previously observed in Cycle 1 with 7 - 9 NIRCam filters by the PRIMER, CEERS
+  and JADES programs. MINERVA reaches a 5σ depth of 28.1 mag in F300M and covers ∼
+  542 arcmin^2, increasing the area of existing JWST medium-band coverage in at least
+  8 bands by ∼ 7times. The MIRI imaging reaches a 5σ depth of 23.9 mag in F1280W and
+  covers ∼ 275 arcmin^2 in at least 2 MIRI filters. When combined with existing imaging,
+  these data will provide a photometric catalog with 20-26 JWST filters (depending
+  on field) and 26-35 filters total, including HST. This paper presents a detailed
+  breakdown of the filter coverage, exposure times, and field layout relative to previous
+  observations, as well as an overview of the primary science goals of the project.
+  These include uncovering the physics of enigmatic sources hiding in current broadband
+  catalogs, improving systematics on stellar mass functions and number densities by
+  factors of rsim 3, and resolved mapping of stellar mass and star formation at 1
+  < z < 6. When complete, MINERVA will become an integral part of the treasury deep
+  field imaging datasets, significantly improving population studies with well-understood
+  completeness, robust photometric redshifts, stellar masses, and sizes, and facilitating
+  spectroscopic follow up for decades to come.'
 
 # Summary. An optional shortened abstract.
 summary: ''

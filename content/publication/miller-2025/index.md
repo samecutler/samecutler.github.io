@@ -39,7 +39,7 @@ author_notes: []
 date: '2025-08-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.317953Z'
+publishDate: '2025-08-26T19:44:23.303112Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -52,7 +52,25 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/ade438
 
-abstract: ''
+abstract: We study the rest-frame optical and ultraviolet (UV) morphology of galaxies
+  in the first billion years of the Universe. Using James Webb Space Telescope data
+  from the UNCOVER and MegaScience surveys targeting the lensing cluster A2744, we
+  present multiband morphological measurements for a sample of 995 galaxies selected
+  using 20-band NIRCam photometry and 35 using NIRSpec Prism spectroscopy over the
+  redshift range of 4 < z < 8. The wavelength-dependent morphology is measured using
+  pysersic by simultaneously modeling the images in six NIRCam wide filters covering
+  the rest-frame UV to optical. The joint modeling technique increases the precision
+  of measured radii by 50%. Galaxies in our sample show a wide range of Sérsic indices,
+  with no systematic difference between optical and UV morphology. We model the size–mass
+  relation in a Bayesian manner using a continuity model to directly fit the redshift
+  evolution while accounting for observational uncertainties. We find the average
+  size of galaxies at logM*/M⊙=8.5 grows rapidly, from 400 pc at z = 8 to 830 pc at
+  z = 4. This is faster evolution than expected from power-law scalings of the Hubble
+  parameter or scale factor that describe well previous results at z < 2. This suggests
+  that different and/or much stronger processes affect low-mass systems during the
+  epoch of reionization. The measured logarithmic slope (0.25) and scatter (0.23 dex)
+  are nonevolving. We discuss the remarkable consistency of the slope and scatter
+  over cosmic time in the context of the galaxy–halo connection.
 
 # Summary. An optional shortened abstract.
 summary: ''

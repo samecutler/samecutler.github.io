@@ -43,7 +43,7 @@ author_notes: []
 date: '2025-06-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.367966Z'
+publishDate: '2025-08-26T19:44:23.344816Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -56,7 +56,27 @@ publication_short: ''
 
 doi: 10.1051/0004-6361/202554110
 
-abstract: ''
+abstract: JWST observations have uncovered a new population of red, compact objects
+  at high redshifts dubbed ``little red dots'' (LRDs), which typically show broad
+  emission lines and are thought to be dusty active galactic nuclei (AGNs). Some of
+  their other features, however, challenge the AGN explanation, such as prominent
+  Balmer breaks and extremely faint or even missing metal high-ionization lines, X-ray,
+  or radio emission, including in deep stacks. Time variability is another robust
+  test of AGN activity. Here, we exploit the z = 7.045 multiply imaged LRD A2744-QSO1,
+  which offers a particularly unique test of variability due to lensing-induced time
+  delays between the three images spanning 22 yr (2.7 yr in the rest-frame), to investigate
+  its photometric and spectroscopic variability. We find the equivalent widths (EWs)
+  of the broad Hα and Hβ lines, which are independent of magnification and other systematics,
+  to exhibit significant variations, of up to 18 ± 3% for Hα and up to 22 ± 8% in
+  Hβ, on a timescale of 875 d (2.4 yr) in the rest-frame. This suggests that A2744-QSO1
+  is indeed an AGN. We find no significant photometric variability beyond the limiting
+  systematic uncertainties, so it currently cannot be determined whether the EW variations
+  are due to line-flux or continuum variability. These results are consistent with
+  a typical damped random walk variability model for an AGN such as A2744-QSO1 (M_BH
+  = 4 × 10^7 M_⊙) given the sparse sampling of the light curve with the available
+  data. Our results therefore support the AGN interpretation of this LRD, and highlight
+  the need for further photometric and spectroscopic monitoring in order to build
+  a detailed and reliable light curve.
 
 # Summary. An optional shortened abstract.
 summary: ''

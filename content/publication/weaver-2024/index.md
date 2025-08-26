@@ -61,7 +61,7 @@ author_notes: []
 date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.585849Z'
+publishDate: '2025-08-26T19:44:23.531309Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -74,7 +74,23 @@ publication_short: ''
 
 doi: 10.3847/1538-4365/ad07e0
 
-abstract: ''
+abstract: In 2022 November, the James Webb Space Telescope (JWST) returned deep near-infrared
+  images of A2744-a powerful lensing cluster capable of magnifying distant, incipient
+  galaxies beyond it. Together with existing Hubble Space Telescope (HST) imaging,
+  this publicly available data set opens a fundamentally new discovery space to understand
+  the remaining mysteries of the formation and evolution of galaxies across cosmic
+  time. In this work, we detect and measure some 60,000 objects across the 49 arcmin^2
+  JWST footprint down to a 5σ limiting magnitude of ~30 mag in 0.″32 apertures. Photometry
+  is performed using circular apertures on images matched to the point-spread function
+  (PSF) of the reddest NIRCam broad band, F444W, and cleaned of bright cluster galaxies
+  and the related intracluster light. To give an impression of the photometric performance,
+  we measure photometric redshifts and achieve a σ_NMAD ≈ 0.03 based on known, but
+  relatively small, spectroscopic samples. With this paper, we publicly release our
+  HST and JWST PSF-matched photometric catalog with optimally assigned aperture sizes
+  for easy use, along with single aperture catalogs, photometric redshifts, rest-frame
+  colors, and individual magnification estimates. These catalogs will set the stage
+  for efficient and deep spectroscopic follow up of some of the first JWST-selected
+  samples in summer of 2023.
 
 # Summary. An optional shortened abstract.
 summary: ''

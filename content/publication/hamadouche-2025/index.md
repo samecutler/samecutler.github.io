@@ -7,21 +7,21 @@ title: 'JWST PRIMER: strong evidence for the environmental quenching of low-mass
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- M. L. Hamadouche
-- R. J. McLure
-- A. C. Carnall
-- D. J. McLeod
-- J. S. Dunlop
-- K. E. Whitaker
-- C. T. Donnan
+- M.~L. Hamadouche
+- R.~J. McLure
+- A.~C. Carnall
+- D.~J. McLeod
+- J.~S. Dunlop
+- K.~E. Whitaker
+- C.~T. Donnan
 - R. Begley
-- T. M. Stanton
+- T.~M. Stanton
 - O. Almaini
 - J. Aird
 - F. Cullen
 - S. Cutler
-- N. A. Grogin
-- A. M. Koekemoer
+- N.~A. Grogin
+- A.~M. Koekemoer
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -30,7 +30,7 @@ author_notes: []
 date: '2025-07-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.333022Z'
+publishDate: '2025-08-26T19:44:23.316739Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -43,7 +43,27 @@ publication_short: ''
 
 doi: 10.1093/mnras/staf971
 
-abstract: ''
+abstract: We present the results of a study investigating the galaxy stellar-mass
+  function (GSMF), size–mass relations, and morphological properties of star-forming
+  and quiescent galaxies over the redshift range , using the JWST PRIMER survey. The
+  depth of the PRIMER near-IR imaging allows us to confithe double Schechter function
+  shape of the quiescent GSMF out to , via a clear detection of the upturn at  thought
+  to be induced by environmental quenching. Additionally, we confithat quiescent galaxies
+  can be split into separate populations at , based on their size–mass relations and
+  morphologies. We find that low-mass quiescent galaxies have more disc-like morphologies
+  (based on Sérsic index, Gini coefficient, and metrics) and follow a shallower size–mass
+  relation than their high-mass counterparts. Indeed, the slope of the size–mass relation
+  followed by low-mass quiescent galaxies is indistinguishable from that followed
+  by star-forming galaxies, albeit with a lower normalization. Moreover, within the
+  errors, the evolution in the median size of low-mass quiescent galaxies ( is indistinguishable
+  from that followed by star-forming galaxies, and significantly less rapid than that
+  displayed by high-mass quiescent galaxies (. Overall, our results are consistent
+  with low- and high-mass quiescent galaxies following different quenching pathways.
+  The evolution of low-mass quiescent galaxies is qualitatively consistent with the
+  expectations of external/environmental quenching (e.g. ram-pressure stripping).
+  In contrast, the evolution of high-mass quiescent galaxies is consistent with internal/mass
+  quenching (e.g. active galactic nucleus feedback) followed by size growth driven
+  by minor mergers.
 
 # Summary. An optional shortened abstract.
 summary: ''

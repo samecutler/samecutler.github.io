@@ -41,7 +41,7 @@ author_notes: []
 date: '2025-06-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.374523Z'
+publishDate: '2025-08-26T19:44:23.350417Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -54,7 +54,25 @@ publication_short: ''
 
 doi: 10.48550/arXiv.2506.16510
 
-abstract: ''
+abstract: While bursty star formation in low-mass galaxies has been observed in local
+  populations and reproduced in simulations, the dormant phase of the burst cycle
+  has not been well studied beyond the local Universe due to observational limitations.
+  We present a unique sample of 41 JWST PRISM spectra of low-mass galaxies (M_⋆ <
+  10^9.5,M_⊙) at cosmic noon (1<z<3), uniformly selected on F200W magnitude and precise
+  photometric redshifts enabled by 20-band JWST photometry from the UNCOVER and MegaScience
+  surveys. The spectra reveal numerous strong Balmer breaks, which are negatively
+  correlated with the galaxies' Hα equivalent width. By comparing these observations
+  to synthetic samples of spectra generated using a simple parametrization of bursty
+  star formation histories, we show that star formation in low-mass galaxies at cosmic
+  noon is likely dominated by burst cycles with long timescales (rsim 100 Myr) and
+  large deviations below the star-forming main sequence (rsim 0.8 dex). Our results
+  suggest that galaxies in this population --at least those within our detection limits--should
+  not be classified solely by their current star formation rates, but instead viewed
+  as a unified population undergoing dynamic movement above and below the star-forming
+  main sequence. The derived constraints demonstrate that long-timescale fluctuations
+  are important for this class of galaxies, indicating that galaxy-scale gas cycles--rather
+  than molecular-cloud-scale stochasticity--are the primary regulators of star formation
+  variability in low-mass galaxies at cosmic noon.
 
 # Summary. An optional shortened abstract.
 summary: ''

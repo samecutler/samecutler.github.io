@@ -49,7 +49,7 @@ author_notes: []
 date: '2024-06-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:37.270231Z'
+publishDate: '2025-08-26T19:43:25.870255Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -70,16 +70,16 @@ abstract: 'We present a measurement of the low-mass quiescent size–mass relati
   We select a conservative sample of low-mass quiescent galaxy candidates using rest-frame
   UVJ colors and specific star formation rate criteria and measure galaxy morphology
   in both rest-frame UV/optical wavelengths (F150W) and rest-frame near-infrared (F444W).
-  We confirm an unambiguous flattening of the low-mass quiescent size–mass relation,
+  We confian unambiguous flattening of the low-mass quiescent size–mass relation,
   which results from the separation of the quiescent galaxy sample into two distinct
-  populations at (M_⋆/M_ødot )∼ 10.3 : low-mass quiescent galaxies that are notably
+  populations at log(M_⋆/M_⊙ )∼ 10.3 : low-mass quiescent galaxies that are notably
   younger and have disky structures, and massive galaxies consistent with spheroidal
   morphologies and older median stellar ages. These separate populations imply mass
   quenching dominates at the massive end while other mechanisms, such as environmental
-  or feedback-driven quenching, form the low-mass end. This stellar mass-dependent
-  slope of the quiescent size–mass relation could also indicate a shift from size
-  growth due to star formation (low masses) to growth via mergers (massive galaxies).
-  The transition mass between these two populations also corresponds with other dramatic
+  or feedback-driven quenching, fothe low-mass end. This stellar mass-dependent slope
+  of the quiescent size–mass relation could also indicate a shift from size growth
+  due to star formation (low masses) to growth via mergers (massive galaxies). The
+  transition mass between these two populations also corresponds with other dramatic
   changes and characteristic masses in several galaxy evolution scaling relations
   (e.g., star formation efficiency, dust obscuration, and stellar-to-halo mass ratios),
   further highlighting the stark dichotomy between low-mass and massive galaxy formation.'
@@ -102,7 +102,7 @@ tags:
 featured: true
 
 # Links
-url_pdf: ''
+url_pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ad464c/pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -120,7 +120,7 @@ url_video: ''
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Smart
   preview_only: false
 
 # Associated Projects (optional).
@@ -130,8 +130,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2312.15012
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2024ApJ...967L..23C/abstract
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

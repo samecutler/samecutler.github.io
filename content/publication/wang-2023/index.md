@@ -42,7 +42,7 @@ author_notes: []
 date: '2023-11-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.594359Z'
+publishDate: '2025-08-26T19:44:23.537806Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -55,7 +55,22 @@ publication_short: ''
 
 doi: 10.3847/2041-8213/acfe07
 
-abstract: ''
+abstract: 'Observations of high-redshift galaxies provide a critical direct test to
+  the theories of early galaxy formation, yet to date, only three have been spectroscopically
+  confirmed at z > 12. Due to strong gravitational lensing over a wide area, the galaxy
+  cluster field A2744 is ideal for searching for the earliest galaxies. Here we present
+  JWST/NIRSpec observations of two galaxies: a robust detection at z_spec=12.393_-0.001^+0.004
+  , and a plausible candidate at z_spec=13.079_-0.001^+0.013 . The galaxies are discovered
+  in JWST/NIRCam imaging and their distances are inferred with JWST/NIRSpec spectroscopy,
+  all from the JWST Cycle 1 UNCOVER Treasury survey. Detailed stellar population modeling
+  using JWST NIRCam and NIRSpec data corroborates the primeval characteristics of
+  these galaxies: low mass (~10^8 M_⊙), young, rapidly assembling, metal-poor, and
+  star-forming. Interestingly, both galaxies are spatially resolved, having lensing-corrected
+  rest-UV effective radii on the order of 300-400 pc, which are notably larger than
+  other spectroscopically confirmed systems at similar redshifts. The observed dynamic
+  range of z gtrsim 10 sizes spans over 1 order of magnitude, implying a significant
+  scatter in the size-mass relation at early times. Deep into the epoch of reionization,
+  these discoveries elucidate the emergence of the first galaxies.'
 
 # Summary. An optional shortened abstract.
 summary: ''

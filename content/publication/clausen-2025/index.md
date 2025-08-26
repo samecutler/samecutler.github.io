@@ -30,7 +30,7 @@ author_notes: []
 date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.478843Z'
+publishDate: '2025-08-26T19:44:23.438230Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -43,7 +43,24 @@ publication_short: ''
 
 doi: 10.48550/arXiv.2501.04788
 
-abstract: ''
+abstract: We present a study of the size growth of the red sequence between 0.5<z<3,
+  tracing the evolution of quiescent galaxies in both effective half-light and half-mass
+  radii using multi-wavelength JWST/NIRCam imaging provided by the PRIMER survey.
+  Half-light radii are measured from imaging in 6 different filters for 455 quiescent
+  galaxies with log(M_*/M_⊙)>10, whereas half-mass radii are derived from the F444W
+  profiles together with the F277W-F444W color-M_*/L relation. We investigate the
+  dependence of the ratio r_e, mass/r_e, light on redshift, stellar mass, and the
+  wavelength used to measure r_e, light, also separating the sample into younger and
+  older quiescent galaxies. Our data demonstrate that rest-frame infrared sizes accurately
+  trace mass-weighted sizes while sizes measured at rest-frame optical wavelengths
+  (0.5-0.7μm) are 0.1-0.2 dex larger, with only minor variations in redshift. We find
+  that the average size of young quiescent galaxies agrees with that of old quiescent
+  galaxies at intermediate masses, 10<log(M_*/M_⊙)<11, within their respective uncertainties
+  in all observed-frame half-light, rest-frame half-light and half-mass radius measurements.
+  At face value, our results point to a combination of progenitor bias and minor mergers
+  driving the size growth of intermediate-mass quiescent galaxies at 0.5<z<3. Our
+  results further indicate that the varying contributions to the general quiescent
+  population by young and old quiescent galaxies can mimic evolution in redshift.
 
 # Summary. An optional shortened abstract.
 summary: ''

@@ -20,7 +20,7 @@ author_notes: []
 date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.460629Z'
+publishDate: '2025-08-26T19:44:23.422143Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -33,7 +33,23 @@ publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: The morphologies of quiescent galaxies provide insight into the physical
+  processes that shut down star formation. Recent studies with JWST find that low
+  mass quiescent galaxies have a lower Sérsic index and more disk-like morphologies
+  relative to massive quenched galaxies, suggesting that the formation and quenching
+  pathways of low and high mass galaxies are different. Owing to random viewing angles,
+  a galaxy can have a range of observable axis ratios depending on its orientation.
+  It is therefore necessary to consider the full distribution of axis ratios at a
+  population level. Using JWST/NIRCam rest-optical imaging from the PRIMER survey,
+  we analyze the intrinsic axis ratio distributions of 154 quiescent galaxies at 1<z<3
+  by considering pure populations (thin/thick disk, prolate, spheroidal) and linear
+  combinations therein. We determine that more massive, older quiescent galaxies are
+  mostly spheroid, whereas lower mass, younger quiescent galaxies are consistent with
+  disky and prolate morphologies. These findings are well aligned with those inferred
+  based on Sérsic index alone and are consistent with models where internal feedback
+  drives quenching on the high mass end whereas environmental quenching is dominant
+  in low mass galaxies. We are working on a similar analysis for star forming galaxies
+  to assess our theories of quenching pathways for these two distinct populations.
 
 # Summary. An optional shortened abstract.
 summary: ''

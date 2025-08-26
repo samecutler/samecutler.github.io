@@ -33,7 +33,7 @@ author_notes: []
 date: '2022-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.651300Z'
+publishDate: '2025-08-26T19:44:23.590596Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -46,7 +46,22 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/ac341c
 
-abstract: ''
+abstract: We present the H_160 morphological catalogs for the COSMOS-DASH survey,
+  the largest area near-IR survey using HST-WFC3 to date. Utilizing the ``Drift And
+  SHift'' observing technique for HST-WFC3 imaging, the COSMOS-DASH survey imaged
+  approximately 0.5 deg^2 of the UltraVISTA deep stripes (0.7 deg^2, when combined
+  with archival data). Global structural parameters are measured for 51,586 galaxies
+  within COSMOS-DASH using GALFIT (excluding the CANDELS area) with detection using
+  a deep multi-band HST image. We recover consistent results with those from the deeper
+  3D-HST morphological catalogs, finding that, in general, sizes and Sérsic indices
+  of typical galaxies are accurate to limiting magnitudes of H_160 < 23 and H_160
+  < 22 ABmag, respectively. In size-mass parameter space, galaxies in COSMOS-DASH
+  demonstrate robust morphological measurements out to z ~ 2 and down to log(M_⋆/M_⊙
+  )∼ 9 . With the advantage of the larger area of COSMOS-DASH, we measure a flattening
+  of the quiescent size-mass relation below log(M_⋆/M_⊙ )∼ 10.5 that persists out
+  to z ~ 2. We show that environment is not the primary driver of this flattening,
+  at least out to z = 1.2, whereas internal physical processes may instead govern
+  the structural evolution.
 
 # Summary. An optional shortened abstract.
 summary: ''

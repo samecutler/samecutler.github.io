@@ -23,7 +23,7 @@ author_notes: []
 date: '2023-08-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.630699Z'
+publishDate: '2025-08-26T19:44:23.569394Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -36,7 +36,26 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/acd54a
 
-abstract: ''
+abstract: The existence of massive quiescent galaxies at high redshift seems to require
+  rapid quenching, but it is unclear whether all quiescent galaxies have gone through
+  this phase and what physical mechanisms are involved. To study rapid quenching,
+  we use rest-frame colors to select 12 young quiescent galaxies at z ~ 1.5. From
+  spectral energy distribution fitting, we find that they all experienced intense
+  starbursts prior to rapid quenching. We confithis with deep Magellan/FIRE spectroscopic
+  observations for a subset of seven galaxies. Broad emission lines are detected for
+  two galaxies, and are most likely caused by active galactic nucleus (AGN) activity.
+  The other five galaxies do not show any emission features, suggesting that gas has
+  already been removed or depleted. Most of the rapidly quenched galaxies are more
+  compact than normal quiescent galaxies, providing evidence for a central starburst
+  in the recent past. We estimate an average transition time of 300 Myr for the rapid
+  quenching phase. Approximately 4% of quiescent galaxies at z = 1.5 have gone through
+  rapid quenching; this fraction increases to 23% at z = 2.2. We identify analogs
+  in the TNG100 simulation and find that rapid quenching for these galaxies is driven
+  by AGNs, and for half of the cases, gas-rich major mergers seem to trigger the starburst.
+  We conclude that these young massive quiescent galaxies are not just rapidly quenched,
+  but also rapidly formed through a major starburst. We speculate that mergers drive
+  gas inflow toward the central regions and grow supermassive black holes, leading
+  to rapid quenching by AGN feedback.
 
 # Summary. An optional shortened abstract.
 summary: ''

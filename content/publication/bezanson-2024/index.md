@@ -58,7 +58,7 @@ author_notes: []
 date: '2024-10-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.499117Z'
+publishDate: '2025-08-26T19:44:23.455620Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -71,7 +71,22 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/ad66cf
 
-abstract: ''
+abstract: In this paper we describe the survey design for the Ultradeep NIRSpec and
+  NIRCam Observations before the Epoch of Reionization (UNCOVER) Cycle 1 JWST Treasury
+  program, which executed its early imaging component in 2022 November. The UNCOVER
+  survey includes ultradeep (∼29–30AB) imaging of ∼45 arcmin^2 on and around the well-studied
+  A2744 galaxy cluster at z = 0.308 and will follow up ∼500 galaxies with extremely
+  deep low-resolution spectroscopy with the NIRSpec/PRISM during the summer of 2023,
+  with repeat visits in summer 2024. We describe the science goals, survey design,
+  target selection, and planned data releases. We also present and characterize the
+  depths of the first NIRCam imaging mosaic, highlighting previously unparalleled
+  resolved and ultradeep 2–4 μm imaging of known objects in the field. The UNCOVER
+  primary NIRCam mosaic spans 28.8 arcmin^2 in seven filters (F115W, F150W, F200W,
+  F277W, F356W, F410M, and F444W) and 16.8 arcmin^2 in our NIRISS parallel (F115W,
+  F150W, F200W, F356W, and F444W). To maximize early community use of the Treasury
+  data set, we publicly release the full reduced mosaics of public JWST imaging including
+  45 arcmin^2 NIRCam and 17 arcmin^2 NIRISS mosaics on and around the A2744 cluster,
+  including the Hubble Frontier Field primary and parallel footprints.
 
 # Summary. An optional shortened abstract.
 summary: ''

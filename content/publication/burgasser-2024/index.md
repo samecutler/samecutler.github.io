@@ -37,7 +37,7 @@ author_notes: []
 date: '2024-02-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.563325Z'
+publishDate: '2025-08-26T19:44:23.513111Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -50,7 +50,27 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/ad206f
 
-abstract: ''
+abstract: We report JWST/NIRSpec spectra of three distant T-type brown dwarfs identified
+  in the Ultradeep NIRSpec and NIRCam ObserVations before the Epoch of Reionization
+  (UNCOVER) survey of the Abell 2744 lensing field. One source was previously reported
+  as a candidate T dwarf on the basis of NIRCam photometry, while two sources were
+  initially identified as candidate active galactic nuclei. Low-resolution 1–5 μm
+  spectra confithe presence of molecular features consistent with T dwarf atmospheres,
+  and comparison to spectral standards infers classifications of sdT1, T6, and T8–T9.
+  The warmest source, UNCOVER-BD-1, shows evidence of subsolar metallicity, and atmosphere
+  model fits indicate T_eff = 1300 K and [M/H] ∼ ‑1.0, making this one of the few
+  spectroscopically confirmed T subdwarfs known. The coldest source, UNCOVER-BD-3,
+  is near the T/Y dwarf boundary with T_eff = 550 K, and our analysis indicates the
+  presence of PH_3 in the 3–5 μm region, favored over CO_2 and a possible indicator
+  of subsolar metallicity. We estimate distances of 0.9–4.5 kpc from the Galactic
+  midplane, making these the most distant brown dwarfs with spectroscopic confirmation.
+  Population simulations indicate high probabilities of membership in the Galactic
+  thick disk for two of these brown dwarfs, and potential halo membership for UNCOVER-BD-1.
+  Our simulations indicate that there are approximately 5 T dwarfs and 1–2 L dwarfs
+  in the Abell 2744 field down to F444W = 30 AB mag, roughly one-third of which are
+  thick disk members. These results highlight the utility of deep JWST/NIRSpec spectroscopy
+  for identifying and characterizing the oldest metal-poor brown dwarfs in the Milky
+  Way.
 
 # Summary. An optional shortened abstract.
 summary: ''

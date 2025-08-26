@@ -51,7 +51,7 @@ author_notes: []
 date: '2025-03-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.413866Z'
+publishDate: '2025-08-26T19:44:23.382078Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -64,7 +64,25 @@ publication_short: ''
 
 doi: 10.48550/arXiv.2503.02059
 
-abstract: ''
+abstract: Luminous broad Hα emission and red rest-optical SEDs are the hallmark of
+  compact Little Red Dots (LRDs), implying highly attenuated dusty starbursts and/or
+  obscured active galactic nuclei. However, the lack of observed FIR emission has
+  proved difficult to reconcile with the implied attenuated luminosity in these models.
+  Here, we utilize deep new ALMA imaging, new and existing JWST/MIRI imaging, and
+  archival Spitzer/Herschel imaging of two of the rest-optically brightest LRDs (z=3.1
+  and z=4.47) to place the strongest constraints on the IR luminosity in LRDs to date.
+  The detections at lambda_rest=1-4  μm imply flat slopes in the rest-IR, ruling out
+  a contribution from hot (Trsim500 K) dust. Similarly, FIR non-detections rule out
+  any appreciable cold (Tlesssim75 K) dust component. Assuming energy balance, these
+  observations are inconsistent with the typical FIR dust emission of dusty starbursts
+  and quasar torii, which usually show a mixture of cold and hot dust. Additionally,
+  our [C_II] non-detections rule out typical dusty starbursts. We compute empirical
+  maximum IR SEDs and find that both LRDs must have log(L_IR/L_⊙) lesssim 12.2 at
+  the 3σ level. These limits are in tension with the predictions of rest-optical spectrophotometric
+  fits, be they galaxy only, AGN only, or composite. It is unlikely that LRDs are
+  highly dust-reddened intrinsically blue sources with a dust temperature distribution
+  that conspires to avoid current observing facilities. Rather, we favor an intrinsically
+  redder LRD SED model that alleviates the need for strong dust attenuation.
 
 # Summary. An optional shortened abstract.
 summary: ''

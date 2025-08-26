@@ -46,7 +46,7 @@ author_notes: []
 date: '2023-11-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.600861Z'
+publishDate: '2025-08-26T19:44:23.543486Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -59,7 +59,26 @@ publication_short: ''
 
 doi: 10.3847/2041-8213/ad037a
 
-abstract: ''
+abstract: Deep observations with the James Webb Space Telescope (JWST) have revealed
+  an emerging population of red pointlike sources that could provide a link between
+  the postulated supermassive black hole seeds and observed quasars. In this work,
+  we present a JWST/NIRSpec spectrum from the JWST Cycle 1 UNCOVER Treasury survey
+  of a massive accreting black hole at z = 8.50 displaying a clear broad-line component
+  as inferred from the Hβ line with FWHM = 3439 ± 413 km s^-1, typical of the broad-line
+  region of an active galactic nucleus (AGN). The AGN nature of this object is further
+  supported by high ionization, as inferred from emission lines, and a point-source
+  morphology. We compute a black hole mass of log_10(M_BH/M_⊙ )=8.17± 0.42 and a bolometric
+  luminosity of L_bol ~ 6.6 × 10^45 erg s^-1. These values imply that our object is
+  accreting at ~40% of the Eddington limit. Detailed modeling of the spectral energy
+  distribution in the optical and near-infrared, together with constraints from ALMA,
+  indicate an upper limit on the stellar mass of log_10(M_*/M_⊙ ) 8.7 , which would
+  lead to an unprecedented ratio of black hole to host mass of at least rs̊ebox-0.5ex~30%.
+  This is orders of magnitude higher compared to the local QSOs but consistent with
+  recent AGN studies at high redshift with JWST. This finding suggests that a nonnegligible
+  fraction of supermassive black holes either started out from massive seeds and/or
+  grew at a super-Eddington rate at high redshift. Given the predicted number densities
+  of high-z faint AGN, future NIRSpec observations of larger samples will allow us
+  to further investigate galaxy-black hole coevolution in the early Universe.
 
 # Summary. An optional shortened abstract.
 summary: ''

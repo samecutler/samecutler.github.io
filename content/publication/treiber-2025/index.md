@@ -40,7 +40,7 @@ author_notes: []
 date: '2025-05-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.387704Z'
+publishDate: '2025-08-26T19:44:23.360818Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -53,7 +53,26 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/adc38f
 
-abstract: ''
+abstract: JWST has revealed diverse new populations of high-redshift (z ∼ 4–11) active
+  galactic nuclei (AGNs) and extreme star-forming galaxies that challenge current
+  photoionization models. In this paper, we use rest-frame UV emission-line diagnostics
+  to identify AGN candidates and other exceptional ionizing sources, complementing
+  previous studies predominantly focused on broad-line AGNs. From a parent sample
+  of 205 z_spec > 3 UNCOVER galaxies with NIRSpec/PRISM follow-up, we identify 12
+  galaxies with C IV, He II, and/or C III] emission. Three of these galaxies also
+  exhibit clear N III] and/or N IV] lines. Leveraging the combined rest-optical and
+  UV coverage of PRISM, we limit the emission-line model space using the sample's
+  [O III]/Hβ distribution, significantly decreasing the overlap between AGN and star
+  formation models in the UV diagnostics. We then find that the five He II emitters
+  are the strongest AGN candidates, with further support from two [Ne V] detections
+  and one X-ray detection from Chandra. Our Balmer line fits also reveal one new broad-line
+  AGN at z = 6.87. We cannot robustly quantify the AGN fraction in this sample, but
+  we note that close to 20% of M_* > 2 × 10^9 M_⊙ parent sample galaxies are AGN candidates.
+  The lower-mass line emitters, which are consistent with both AGN and star-forming
+  photoionization models, have more compact sizes and higher specific star formation
+  rates than the parent sample. Higher-resolution and deeper data on these UV line
+  emitters should provide much stronger constraints on the obscured AGN fraction at
+  z > 3.
 
 # Summary. An optional shortened abstract.
 summary: ''

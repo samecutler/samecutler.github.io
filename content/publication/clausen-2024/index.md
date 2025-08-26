@@ -31,7 +31,7 @@ author_notes: []
 date: '2024-08-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.506663Z'
+publishDate: '2025-08-26T19:44:23.462251Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -44,7 +44,27 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/ad528a
 
-abstract: ''
+abstract: We present a study of the growth of the quiescent galaxy population between
+  0.5 < z < 3 by tracing the number density and structural evolution of a sample of
+  4518 old and 583 young quiescent galaxies with log(M_⋆/M_⊙) > 10.4, selected from
+  the COSMOS2020 catalog with complementary Hubble Space Telescope F160W imaging from
+  the 3D-DASH survey. Among the quiescent population at z ∼ 2, roughly 50% are recently
+  quenched galaxies; these young quiescent galaxies become increasingly rare toward
+  lower redshift, supporting the idea that the peak epoch of massive galaxy quenching
+  occurred at z > 2. Our data show that while the effective half-light radius of quiescent
+  galaxies generally increases with time, young quiescent galaxies are significantly
+  smaller than their older counterparts at the same redshift. In this work we investigate
+  the connection between this size difference and other structural properties, including
+  axis ratio, color gradients, stellar mass, and the intrinsic scatter in effective
+  radius. We demonstrate that the size difference is driven by the most massive subpopulation
+  (log(M_⋆/M_⊙) > 11) and does not persist when restricting the sample to intermediate-mass
+  galaxies (10.4 < log(M_⋆/M_⊙) < 11). Interestingly, the intrinsic scatter in physical
+  size shows a strong coevolution over the investigated time period and peaks around
+  z ∼ 2 for both populations, only diverging at z < 1. Taken together, and assuming
+  we are not missing a significant population of lower surface brightness galaxies,
+  while the formation and quenching mechanisms that dominate at higher redshifts yield
+  compact remnants, multiple evolutionary pathways may explain the diverse morphologies
+  of galaxies that quench at z < 1.
 
 # Summary. An optional shortened abstract.
 summary: ''

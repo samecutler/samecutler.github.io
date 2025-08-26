@@ -1,6 +1,6 @@
 ---
 title: RUBIES spectroscopically confirms the high number density of quiescent galaxies
-  from 2<z<5
+  from mathbf2<z<5
 
 # Authors
 # A YAML list of author names
@@ -39,7 +39,7 @@ author_notes: []
 date: '2025-08-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.326822Z'
+publishDate: '2025-08-26T19:44:23.311647Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -52,7 +52,22 @@ publication_short: ''
 
 doi: 10.48550/arXiv.2508.08577
 
-abstract: ''
+abstract: We present the number density of massive ( mathlog (M_*/M_⊙) > 10.3 ) quiescent
+  galaxies at 2<z<5 using JWST NIRSpec PRISM spectra. This work relies on spectra
+  from RUBIES, which provides excellent data quality and an unparalleled, well-defined
+  targeting strategy to robustly infer physical properties and number densities. We
+  identify quiescent galaxy candidates within RUBIES through principal component analysis
+  and construct a final sample using star formation histories derived from spectro-photometric
+  fitting of the NIRSpec PRISM spectra and NIRCam photometry. By inverting the RUBIES
+  selection function, we correct for survey incompleteness and calculate the number
+  density of massive quiescent galaxies at these redshifts, providing the most complete
+  spectroscopic estimates prior to cosmic noon to date. We find that early massive
+  quiescent galaxies are surprisingly common (rsim 10^-5 Mpc^-3 by 4<z<5), which is
+  consistent with previous studies based on JWST photometry alone and/or in smaller
+  survey areas. We compare our number densities with predictions from six state-of-the-art
+  cosmological galaxy formation simulations. At z>3, most simulations fail to produce
+  enough massive quiescent galaxies, suggesting the treatment of feedback and/or the
+  channels for early efficient formation are incomplete in most galaxy evolution models.
 
 # Summary. An optional shortened abstract.
 summary: ''
