@@ -251,6 +251,8 @@ def clean_bibtex_authors(author_str):
         if len(s) < 1:
             continue
 
+        s = s.replace('~',' ')
+
         if "," in s:
             split_names = s.split(",", 1)
             last_name = split_names[0].strip()

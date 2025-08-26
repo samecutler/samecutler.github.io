@@ -24,7 +24,7 @@ authors:
 - Ikki Mitsuhashi
 - Alexandra Pope
 - Anna Sajina
-- Ghassan T.~E. Sarrouh
+- Ghassan T. E. Sarrouh
 - Monu Sharma
 - Mauro Stefanon
 - Katherine E. Whitaker
@@ -51,7 +51,7 @@ authors:
 - Ilias Goovaerts
 - Jenny E. Greene
 - Naadiyah Jagga
-- William W.~H. Jarvis
+- William W. H. Jarvis
 - Mariska Kriek
 - Gourav Khullar
 - Valentina La Torre
@@ -99,7 +99,7 @@ author_notes: []
 date: '2025-07-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T19:44:23.332154Z'
+publishDate: '2025-08-26T20:16:37.871648Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

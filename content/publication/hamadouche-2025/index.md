@@ -7,21 +7,21 @@ title: 'JWST PRIMER: strong evidence for the environmental quenching of low-mass
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- M.~L. Hamadouche
-- R.~J. McLure
-- A.~C. Carnall
-- D.~J. McLeod
-- J.~S. Dunlop
-- K.~E. Whitaker
-- C.~T. Donnan
+- M. L. Hamadouche
+- R. J. McLure
+- A. C. Carnall
+- D. J. McLeod
+- J. S. Dunlop
+- K. E. Whitaker
+- C. T. Donnan
 - R. Begley
-- T.~M. Stanton
+- T. M. Stanton
 - O. Almaini
 - J. Aird
 - F. Cullen
 - S. Cutler
-- N.~A. Grogin
-- A.~M. Koekemoer
+- N. A. Grogin
+- A. M. Koekemoer
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -30,7 +30,7 @@ author_notes: []
 date: '2025-07-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T19:44:23.316739Z'
+publishDate: '2025-08-26T20:16:37.855788Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).

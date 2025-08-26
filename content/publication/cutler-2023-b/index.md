@@ -1,6 +1,6 @@
 ---
 title: The Differential Assembly History of the Centers and Outskirts of Main-sequence
-  Galaxies at z~2.3
+  Galaxies at z   2.3
 
 # Authors
 # A YAML list of author names
@@ -19,7 +19,7 @@ author_notes: []
 date: '2023-03-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T19:44:23.574989Z'
+publishDate: '2025-08-26T20:16:38.104300Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
