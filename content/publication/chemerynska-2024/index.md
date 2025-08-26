@@ -37,12 +37,12 @@ author_notes: []
 date: '2024-06-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T17:39:45.568301Z'
+publishDate: '2025-08-26T18:22:21.519509Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- '2'
 
 # Publication name and optional abbreviated publication name.
 publication: '*Monthly Notices of the Royal Astronomical Society*'
