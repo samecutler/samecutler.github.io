@@ -37,7 +37,7 @@ author_notes: []
 date: '2025-04-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T20:16:37.907239Z'
+publishDate: '2025-09-03T18:41:35.785687Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -114,4 +114,3 @@ links:
   url: https://arxiv.org/abs/2504.06334
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

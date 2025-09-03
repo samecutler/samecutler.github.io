@@ -108,4 +108,4 @@ links:
   url: https://ui.adsabs.harvard.edu/abs/2022ApJ...925...34C/abstract
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+![image](main.png)
