@@ -44,9 +44,9 @@ social:
     link: https://www.linkedin.com/in/samecutler/
     label: Linkedin
 organizations:
-  - name: Department of Astronomy
-    url: https://www.astro.umass.edu
-  - name: University of Massachusetts, Amherst
+  - name: Department of Physics and Astronomy
+    url: https://as.tufts.edu/physics/
+  - name: Tufts University
 education:
   courses:
     - course: Ph.D. in Astrophysics
@@ -61,7 +61,7 @@ education:
 superuser: true
 highlight_name: true
 title: Sam E. Cutler
-email: secutler@umass.edu
+email: sam.cutler@tufts.edu
 ---
 I am an Astronomy Postdoctoral Researcher at Tufts University with the JWST Cycle 4 MINERVA team.  I obtained my Ph.D. in Astronomy at the University of Massachusetts, Amherst in September 2025 advised by Kate Whitaker. I graduated with a B.S. in Physics and Mathematics from the University of Connecticut in 2019. In my research, I focus on the formation and evolution of galaxies via large photometric and spectroscopic surveys and galaxy morphology.
 
@@ -69,6 +69,6 @@ In the past, I have studied the relationship between galaxy structure, environme
 
 I am a PI of "The Relic", a JWST Cycle 3 program targeting a z~2.5 massive quiescent galaxy containing several resolved globular cluster candidates with deep (>20 hr) NIRSpec/IFU prism spectroscopy. I am also the photometric catalog lead for the JWST Cycle 4 MINERVA program, which covers four existing JWST datasets (COSMOS, UDS, GOODS-N, and CEERS) with additional photometry from several medium band filters.
 
-Outside of research, I am an active member in science outreach with UMass Astronomy, where we hope to make science accessible to the larger community and encourage interest in astronomy, and worked to found the Western Massachusetts chapter of Astronomy on Tap.
+Outside of research, I am an active member in science outreach. At UMass Astronomy I actively contributed to the founding of the Western Massachusetts chapter of Astronomy on Tap.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.

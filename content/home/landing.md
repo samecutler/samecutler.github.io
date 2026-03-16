@@ -15,7 +15,7 @@ design:
 <link rel="stylesheet" href="custom.css">
 
 
-<header>
+<!-- <header>
   <div class="overlay"></div>
   <img src="header.jpg">
-</header>
+</header> -->
