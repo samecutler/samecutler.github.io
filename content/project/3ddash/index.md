@@ -6,7 +6,7 @@ summary: Catalogs and projects related to the 3D-DASH survey, an HST WFC3/F160W 
 draft: false
 featured: false
 tags:
-  - Catalogs
+  - Catalogs and Photometry
 external_link:
 links: []
 image:

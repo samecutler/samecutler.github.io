@@ -6,10 +6,9 @@ summary: A structural catalog of morphologies in the COSMOS-DASH survey
 draft: false
 featured: false
 tags:
-  - Galaxy Evolution
-  - Galaxy Morphology
+  - Morphology
   - Featured
-  - Catalogs
+  - Catalogs and Photometry
 external_link:
 links: []
 image:

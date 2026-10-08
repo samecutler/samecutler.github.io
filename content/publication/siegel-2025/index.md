@@ -1,63 +1,52 @@
 ---
-title: 'Studying cosmic noon at 200 parsec scales: resolved spectroscopy of a magnified
-  dusty quiescent galaxy'
+title: 'UNCOVER: Significant Reddening in Cosmic Noon Quiescent Galaxies'
 
-# Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Jared Siegel
-- David Setton
+- Jared C. Siegel
+- David J. Setton
+- Jenny E. Greene
+- Katherine A. Suess
+- Katherine E. Whitaker
 - Rachel Bezanson
-- Gabriel Brammer
-- Sam Edward Cutler
-- Pratika Dayal
-- Robert Feldmann
-- Lukas Jonathan Furtak
-- Jenny Emma Greene
-- Ivo Labbe
 - Joel Leja
+- Lukas J. Furtak
+- Sam E. Cutler
+- Anna de Graaff
+- Robert Feldmann
+- Gourav Khullar
+- Ivo Labbe
+- Danilo Marchesini
+- Tim B. Miller
+- Themiya Nanayakkara
 - Richard Pan
 - Sedona H. Price
-- Katherine Suess
+- Helena P. Treiber
+- Pieter van Dokkum
 - Bingjie Wang
 - John R. Weaver
-- Katherine E. Whitaker
-- Anna G. de Graaff
-- Pieter van Dokkum
 
-# Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-03-01'
+date: '2025-05-01'
 
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-08-26T18:22:21.407992Z'
+publishDate: '2026-10-07T00:00:00Z'
 
-# Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- '0'
+- '2'
 
-# Publication name and optional abbreviated publication name.
-publication: ''
+publication: '*The Astrophysical Journal*'
 publication_short: ''
 
-doi: ''
+doi: 10.3847/1538-4357/adc7b7
 
-abstract: ''
+abstract: 'We explore the physical properties of five massive quiescent galaxies at z ~ 2.5, revealing the presence of nonnegligible dust reservoirs. JWST NIRSpec observations were obtained for each target, finding no significant line emission; multiple star formation tracers independently place upper limits between 0.1 and 10 M$_☉$ yr$^-1$. Spectral energy distribution modeling with Prospector infers stellar masses of log10[M/M\ odot]~10-11 and stellar-mass- weighted ages between 1 and 2 Gyr. The inferred mass-weighted effective radii (r$_eff$ ~ 0.4─1.4 kpc) and inner 1 kpc stellar surface densities (log10[\Sigma 1kpc/M☉kpc2]≳9) are typical of quiescent galaxies at z ≳ 2. The galaxies predominately display negative color gradients (redder core and bluer outskirts); for one galaxy, this effect results from a dusty core. Unlike local quiescent galaxies, we identify significant reddening in these typical cosmic noon passive galaxies; all but one require A$_V$ ≳ 0.4. This finding is in qualitative agreement with previous studies, but our deep 20-band NIRCam imaging is able to significantly suppress the dust─age degeneracy and confidently determine that these galaxies are reddened. We speculate about the physical effects that may drive the decline in dust content in quiescent galaxies over cosmic time.'
 
-# Summary. An optional shortened abstract.
 summary: ''
 
 tags: []
 
-# Display this page in a list of Featured pages?
 featured: false
 
-# Links
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -67,24 +56,13 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-# Publication image
-# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2409.11457
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

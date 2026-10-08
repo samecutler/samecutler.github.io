@@ -6,7 +6,7 @@ summary: HST-only catalog in the GOODS-N field using improved imaging from the H
 draft: false
 featured: false
 tags:
-  - Catalogs
+  - Catalogs and Photometry
 external_link:
 links: []
 image:

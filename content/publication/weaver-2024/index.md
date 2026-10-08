@@ -1,11 +1,6 @@
 ---
-title: 'The UNCOVER Survey: A First-look HST + JWST Catalog of 60,000 Galaxies near
-  A2744 and beyond'
+title: 'The UNCOVER Survey: A First-look HST + JWST Catalog of 60,000 Galaxies near A2744 and beyond'
 
-# Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - John R. Weaver
 - Sam E. Cutler
@@ -54,66 +49,28 @@ authors:
 - Andrea Weibel
 - Christina C. Williams
 
-# Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
 date: '2024-01-01'
 
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-09-03T18:41:35.947335Z'
+publishDate: '2026-10-07T00:00:00Z'
 
-# Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
 - '2'
 
-# Publication name and optional abbreviated publication name.
 publication: '*The Astrophysical Journal Supplement Series*'
 publication_short: ''
 
 doi: 10.3847/1538-4365/ad07e0
 
-abstract: In 2022 November, the James Webb Space Telescope (JWST) returned deep near-infrared
-  images of A2744-a powerful lensing cluster capable of magnifying distant, incipient
-  galaxies beyond it. Together with existing Hubble Space Telescope (HST) imaging,
-  this publicly available data set opens a fundamentally new discovery space to understand
-  the remaining mysteries of the formation and evolution of galaxies across cosmic
-  time. In this work, we detect and measure some 60,000 objects across the 49 arcmin^2
-  JWST footprint down to a 5σ limiting magnitude of ~30 mag in 0.″32 apertures. Photometry
-  is performed using circular apertures on images matched to the point-spread function
-  (PSF) of the reddest NIRCam broad band, F444W, and cleaned of bright cluster galaxies
-  and the related intracluster light. To give an impression of the photometric performance,
-  we measure photometric redshifts and achieve a σ_NMAD ≈ 0.03 based on known, but
-  relatively small, spectroscopic samples. With this paper, we publicly release our
-  HST and JWST PSF-matched photometric catalog with optimally assigned aperture sizes
-  for easy use, along with single aperture catalogs, photometric redshifts, rest-frame
-  colors, and individual magnification estimates. These catalogs will set the stage
-  for efficient and deep spectroscopic follow up of some of the first JWST-selected
-  samples in summer of 2023.
+abstract: 'In 2022 November, the James Webb Space Telescope (JWST) returned deep near-infrared images of A2744-a powerful lensing cluster capable of magnifying distant, incipient galaxies beyond it. Together with existing Hubble Space Telescope (HST) imaging, this publicly available data set opens a fundamentally new discovery space to understand the remaining mysteries of the formation and evolution of galaxies across cosmic time. In this work, we detect and measure some 60,000 objects across the 49 arcmin$^2$ JWST footprint down to a 5σ limiting magnitude of ~30 mag in 0.″32 apertures. Photometry is performed using circular apertures on images matched to the point-spread function (PSF) of the reddest NIRCam broad band, F444W, and cleaned of bright cluster galaxies and the related intracluster light. To give an impression of the photometric performance, we measure photometric redshifts and achieve a σ $_NMAD$ ≈ 0.03 based on known, but relatively small, spectroscopic samples. With this paper, we publicly release our HST and JWST PSF-matched photometric catalog with optimally assigned aperture sizes for easy use, along with single aperture catalogs, photometric redshifts, rest-frame colors, and individual magnification estimates. These catalogs will set the stage for efficient and deep spectroscopic follow up of some of the first JWST-selected samples in summer of 2023.'
 
-# Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Catalogs
-- Abell clusters
-- Photometry
-- James webb space telescope
-- Hubble space telescope
-- Astronomical methods
-- '205'
-- '9'
-- '1234'
-- '2291'
-- '761'
-- '1043'
-- Astrophysics - astrophysics of galaxies
+tags: []
 
-# Display this page in a list of Featured pages?
 featured: false
 
-# Links
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -123,26 +80,13 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-# Publication image
-# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2301.02671
 ---
-

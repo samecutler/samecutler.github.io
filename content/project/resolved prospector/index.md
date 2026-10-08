@@ -6,9 +6,8 @@ summary: Star formation histories of the inner and outer components of main sequ
 draft: false
 featured: false
 tags:
-  - Galaxy Evolution
   - Featured
-  - SED Fitting
+  - Spatially-Resolved Modeling
 external_link:
 links: []
 image:

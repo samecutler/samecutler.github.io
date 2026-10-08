@@ -1,85 +1,50 @@
 ---
-title: 'JWST UNCOVER: the overabundance of ultraviolet-luminous galaxies at z > 9'
+title: 'The Extreme Low-mass End of the Mass─Metallicity Relation at z ~ 7'
 
-# Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Iryna Chemerynska
 - Hakim Atek
-- Lukas J. Furtak
-- Adi Zitrin
-- Jenny E. Greene
 - Pratika Dayal
-- Andrea Weibel
-- Seiji Fujimoto
-- Vasily Kokorev
-- Andy D. Goulding
-- Christina C. Williams
+- Lukas J. Furtak
+- Robert Feldmann
+- Jenny E. Greene
+- Michael V. Maseda
 - Themiya Nanayakkara
+- Pascal A. Oesch
+- Seiji Fujimoto
+- Ivo Labbé
 - Rachel Bezanson
 - Gabriel Brammer
 - Sam E. Cutler
-- Ivo Labbe
 - Joel Leja
 - Richard Pan
 - Sedona H. Price
-- Pieter van Dokkum
 - Bingjie Wang
 - John R. Weaver
 - Katherine E. Whitaker
 
-# Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-06-01'
+date: '2024-11-01'
 
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-09-03T18:41:35.893314Z'
+publishDate: '2026-10-07T00:00:00Z'
 
-# Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
 - '2'
 
-# Publication name and optional abbreviated publication name.
-publication: '*Monthly Notices of the Royal Astronomical Society*'
+publication: '*The Astrophysical Journal Letters*'
 publication_short: ''
 
-doi: 10.1093/mnras/stae1260
+doi: 10.3847/2041-8213/ad8dc9
 
-abstract: Over the past year, JWST has uncovered galaxies at record-breaking distances
-  up to z ~ 13. The JWST UNCOVER (ultra-deep NIRSpec and NIRcam observations before
-  the epoch of reionization) program has obtained ultra-deep multiwavelength NIRCam
-  imaging of the massive galaxy cluster A2744 over ~45 arcmin^2 down to rs̊ebox-0.5ex~29.5
-  AB mag. Here, we present a robust ultraviolet (UV) luminosity function derived through
-  lensing clusters at 9 < z < 12. Using comprehensive end-to-end simulations, we account
-  for all lensing effects and systematic uncertainties in deriving both the amplification
-  factors and the effective survey volume. Our results confithe intriguing excess
-  of UV-bright galaxies (M_UV <-20 AB mag) previously reported at z > 9 in recent
-  JWST studies. In particular, a double power-law (DPL) describes better the bright
-  end of the luminosity function compared to the classical Schechter form. The number
-  density of these bright galaxies is 10-100 times larger than theoretical predictions
-  and previous findings based on Hubble Space Telescope (HST) observations. Additionally,
-  we measure a star formation rate density of rh̊_SFR = 10^-2.64 M_⊙ yr^-1 Mpc^-3
-  at these redshifts, which is 4-10 times higher than galaxy formation models that
-  assume a constant star formation efficiency. Future wide-area surveys and accurate
-  modelling of lensing-assisted observations will reliably constrain both the bright
-  and the dim end of the UV luminosity function at z > 9, which will provide key benchmarks
-  for galaxy formation models.
+abstract: 'The mass─metallicity relation provides crucial insights into the baryon cycle in galaxies and strong constraints on galaxy formation models. We use JWST NIRSpec observations from the UNCOVER program to measure the gas-phase metallicity in a sample of eight galaxies during the epoch of reionization at z = 6─8. Thanks to the strong lensing of the galaxy cluster Abell 2744, we are able to probe extremely low stellar masses between 10$^6$ and 10$^8$ M $_☉$. Using strong-line diagnostics and the most recent JWST calibrations, we derive extremely low oxygen abundances in the range of 12 + log(O/H) = 6.7─7.8. By combining this sample with more massive galaxies at similar redshifts, we derive a best-fit relation of 12 + log(O/H) = -0.076-0.03+0.03\ texttimes(log(M★))2+1.61-0.52 +0.52 \texttimes log(M★)-0.2 6-0.10+0.10, which becomes steeper than determinations at z ~ 3─6 toward low-mass galaxies. Our results show a clear redshift evolution in the overall normalization of the relation, galaxies at higher redshift having significantly lower metallicities at a given mass. A comparison with theoretical models provides important constraints on which physical processes, such as metal mixing, star formation or feedback recipes, are important in reproducing the observations. Additionally, these galaxies exhibit star formation rates that are higher by a factor of a few to tens compared to extrapolated relations at similar redshifts or theoretical predictions of main-sequence galaxies, pointing to a recent burst of star formation. All these observations are indicative of the highly stochastic star formation and interstellar medium enrichment expected in these low-mass systems, suggesting that feedback mechanisms in high-z dwarf galaxies might be different from those in place at higher masses.'
 
-# Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Astrophysics - astrophysics of galaxies
+tags: []
 
-# Display this page in a list of Featured pages?
 featured: false
 
-# Links
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -89,26 +54,13 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-# Publication image
-# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2312.05030
+  url: https://arxiv.org/abs/2407.17110
 ---
-

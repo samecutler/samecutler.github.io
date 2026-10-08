@@ -1,78 +1,45 @@
 ---
-title: The Evolution of Half-Mass Radii and Color Gradients for Young and Old Quiescent
-  Galaxies at 0.5 < z < 3 with JWST/PRIMER
+title: 'The Evolution of Half-mass Radii and Color Gradients for Young and Old Quiescent Galaxies at 0.5 < z < 3 with JWST/PRIMER'
 
-# Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Maike Clausen
-- Ivelina Momcheva
+- Ivelina G. Momcheva
 - Katherine E. Whitaker
 - Sam E. Cutler
 - Rachel S. Bezanson
 - James S. Dunlop
 - Norman A. Grogin
 - Anton M. Koekemoer
-- Derek McLeod
-- Ross McLure
+- Derek J. McLeod
+- Ross J. McLure
 - Tim B. Miller
-- Erica Nelson
+- Erica J. Nelson
 - Arjen van der Wel
-- David Wake
+- David A. Wake
 - Stijn Wuyts
 
-# Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-01-01'
+date: '2025-11-01'
 
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-09-03T18:41:35.857522Z'
+publishDate: '2026-10-07T00:00:00Z'
 
-# Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
 - '2'
 
-# Publication name and optional abbreviated publication name.
-publication: '*arXiv e-prints*'
+publication: '*The Astrophysical Journal*'
 publication_short: ''
 
-doi: 10.48550/arXiv.2501.04788
+doi: 10.3847/1538-4357/ae03aa
 
-abstract: We present a study of the size growth of the red sequence between 0.5<z<3,
-  tracing the evolution of quiescent galaxies in both effective half-light and half-mass
-  radii using multi-wavelength JWST/NIRCam imaging provided by the PRIMER survey.
-  Half-light radii are measured from imaging in 6 different filters for 455 quiescent
-  galaxies with log(M_*/M_⊙)>10, whereas half-mass radii are derived from the F444W
-  profiles together with the F277W-F444W color-M_*/L relation. We investigate the
-  dependence of the ratio r_e, mass/r_e, light on redshift, stellar mass, and the
-  wavelength used to measure r_e, light, also separating the sample into younger and
-  older quiescent galaxies. Our data demonstrate that rest-frame infrared sizes accurately
-  trace mass-weighted sizes while sizes measured at rest-frame optical wavelengths
-  (0.5-0.7μm) are 0.1-0.2 dex larger, with only minor variations in redshift. We find
-  that the average size of young quiescent galaxies agrees with that of old quiescent
-  galaxies at intermediate masses, 10<log(M_*/M_⊙)<11, within their respective uncertainties
-  in all observed-frame half-light, rest-frame half-light and half-mass radius measurements.
-  At face value, our results point to a combination of progenitor bias and minor mergers
-  driving the size growth of intermediate-mass quiescent galaxies at 0.5<z<3. Our
-  results further indicate that the varying contributions to the general quiescent
-  population by young and old quiescent galaxies can mimic evolution in redshift.
+abstract: 'We present a study of the size growth of the red sequence between 0.5 < z < 3, tracing the evolution of quiescent galaxies in both effective half-light and half-mass radii using multiwavelength JWST/NIRCam imaging provided by the PRIMER survey. Half-light radii are measured from imaging in six different filters for 502 quiescent galaxies with log(M$_*$/M$_☉$) > 10, whereas half-mass radii are derived from the F444W profiles together with the F277W - F444W color─M$_*$/L relation. We investigate the dependence of the ratio r$_e,mass$/r$_e,light$ on redshift, stellar mass, and the wavelength used to measure r$_e,light$, also separating the sample into younger and older quiescent galaxies. Our data demonstrate that rest-frame infrared sizes accurately trace mass-weighted sizes, while sizes measured at rest-frame optical wavelengths (0.5─0.7 μm) are 0.1─0.2 dex larger, with only minor variations in redshift. We find that the average size of young quiescent galaxies agrees with that of old quiescent galaxies at intermediate masses, 10 < log(M$_*$/M$_☉$) < 11, within their respective uncertainties in all observed-frame half-light, rest- frame half-light, and half-mass─radius measurements. At face value, our results point to a combination of progenitor bias and minor mergers driving the size growth of intermediate-mass quiescent galaxies at 0.5 < z < 3.'
 
-# Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Astrophysics - astrophysics of galaxies
-- Astrophysics - cosmology and nongalactic astrophysics
+tags: []
 
-# Display this page in a list of Featured pages?
 featured: false
 
-# Links
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -82,26 +49,13 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-# Publication image
-# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2501.04788
 ---
-
