@@ -55,6 +55,8 @@ image:
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.4128Z
 - name: arXiv
   url: https://arxiv.org/abs/2307.02568
 ---

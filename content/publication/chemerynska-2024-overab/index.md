@@ -40,7 +40,7 @@ publication_short: ''
 
 doi: 10.1093/mnras/stae1260
 
-abstract: 'Over the past year, JWST has uncovered galaxies at record-breaking distances up to z ~ 13. The JWST UNCOVER (ultra-deep NIRSpec and NIRcam observations before the epoch of reionization) program has obtained ultra-deep multiwavelength NIRCam imaging of the massive galaxy cluster A2744 over ~45 arcmin$^2$ down to ~29.5 AB mag. Here, we present a robust ultraviolet (UV) luminosity function derived through lensing clusters at 9 < z < 12. Using comprehensive end-to-end simulations, we account for all lensing effects and systematic uncertainties in deriving both the amplification factors and the effective survey volume. Our results confirm the intriguing excess of UV-bright galaxies (M$_UV$ <-20 AB mag) previously reported at z > 9 in recent JWST studies. In particular, a double power-law (DPL) describes better the bright end of the luminosity function compared to the classical Schechter form. The number density of these bright galaxies is 10-100 times larger than theoretical predictions and previous findings based on Hubble Space Telescope (HST) observations. Additionally, we measure a star formation rate density of ρ$_SFR$ = 10$^-2.64$ M$_☉$ yr$^-1$ Mpc$^-3$ at these redshifts, which is 4-10 times higher than galaxy formation models that assume a constant star formation efficiency. Future wide-area surveys and accurate modelling of lensing-assisted observations will reliably constrain both the bright and the dim end of the UV luminosity function at z > 9, which will provide key benchmarks for galaxy formation models.'
+abstract: 'Over the past year, JWST has uncovered galaxies at record-breaking distances up to z ~ 13. The JWST UNCOVER (ultra-deep NIRSpec and NIRcam observations before the epoch of reionization) program has obtained ultra-deep multiwavelength NIRCam imaging of the massive galaxy cluster A2744 over ~45 arcmin² down to ~29.5 AB mag. Here, we present a robust ultraviolet (UV) luminosity function derived through lensing clusters at 9 < z < 12. Using comprehensive end-to-end simulations, we account for all lensing effects and systematic uncertainties in deriving both the amplification factors and the effective survey volume. Our results confirm the intriguing excess of UV-bright galaxies (MUV <-20 AB mag) previously reported at z > 9 in recent JWST studies. In particular, a double power-law (DPL) describes better the bright end of the luminosity function compared to the classical Schechter form. The number density of these bright galaxies is 10-100 times larger than theoretical predictions and previous findings based on Hubble Space Telescope (HST) observations. Additionally, we measure a star formation rate density of ρSFR = 10-2.64 M☉ yr⁻¹ Mpc⁻³ at these redshifts, which is 4-10 times higher than galaxy formation models that assume a constant star formation efficiency. Future wide-area surveys and accurate modelling of lensing-assisted observations will reliably constrain both the bright and the dim end of the UV luminosity function at z > 9, which will provide key benchmarks for galaxy formation models.'
 
 summary: ''
 
@@ -64,6 +64,8 @@ image:
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.2615C
 - name: arXiv
   url: https://arxiv.org/abs/2312.05030
 ---

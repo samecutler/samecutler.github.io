@@ -36,7 +36,7 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/ac341c
 
-abstract: 'We present the H $_160$ morphological catalogs for the COSMOS-DASH survey, the largest area near-IR survey using HST-WFC3 to date. Utilizing the ``Drift And SHift'''' observing technique for HST- WFC3 imaging, the COSMOS-DASH survey imaged approximately 0.5 deg$^2$ of the UltraVISTA deep stripes (0.7 deg$^2$, when combined with archival data). Global structural parameters are measured for 51,586 galaxies within COSMOS-DASH using GALFIT (excluding the CANDELS area) with detection using a deep multi- band HST image. We recover consistent results with those from the deeper 3D-HST morphological catalogs, finding that, in general, sizes and Sérsic indices of typical galaxies are accurate to limiting magnitudes of H $_160$ < 23 and H $_160$ < 22 ABmag, respectively. In size-mass parameter space, galaxies in COSMOS-DASH demonstrate robust morphological measurements out to z ~ 2 and down to $\mathrmlog(M_\star /M_\odot )~ 9$ . With the advantage of the larger area of COSMOS-DASH, we measure a flattening of the quiescent size-mass relation below $\mathrmlog(M_\star /M_\odot )~ 10.5$ that persists out to z ~ 2. We show that environment is not the primary driver of this flattening, at least out to z = 1.2, whereas internal physical processes may instead govern the structural evolution.'
+abstract: 'We present the H ₁₆₀ morphological catalogs for the COSMOS-DASH survey, the largest area near-IR survey using HST-WFC3 to date. Utilizing the “Drift And SHift” observing technique for HST- WFC3 imaging, the COSMOS-DASH survey imaged approximately 0.5 deg² of the UltraVISTA deep stripes (0.7 deg², when combined with archival data). Global structural parameters are measured for 51,586 galaxies within COSMOS-DASH using GALFIT (excluding the CANDELS area) with detection using a deep multi- band HST image. We recover consistent results with those from the deeper 3D-HST morphological catalogs, finding that, in general, sizes and Sersic indices of typical galaxies are accurate to limiting magnitudes of H ₁₆₀ < 23 and H ₁₆₀ < 22 ABmag, respectively. In size-mass parameter space, galaxies in COSMOS-DASH demonstrate robust morphological measurements out to z ~ 2 and down to log(M★/M☉)~ 9 . With the advantage of the larger area of COSMOS-DASH, we measure a flattening of the quiescent size-mass relation below log(M★/M☉)~ 10.5 that persists out to z ~ 2. We show that environment is not the primary driver of this flattening, at least out to z = 1.2, whereas internal physical processes may instead govern the structural evolution.'
 
 summary: ''
 
@@ -55,11 +55,13 @@ url_video: ''
 
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Smart
   preview_only: false
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...925...34C
 - name: arXiv
   url: https://arxiv.org/abs/2111.14848
 ---

@@ -61,7 +61,7 @@ publication_short: ''
 
 doi: 10.3847/2041-8213/ae960c
 
-abstract: 'The discovery of a population of massive, ancient quiescent galaxies within the first 2 Gyr of the Universe''s history has led to significant tensions with models of galaxy formation. However, these analyses are often based on slit spectroscopy, which typically captures only the centermost region of these galaxies and, crucially, assumes these cores are representative of the entire galaxy. To illustrate the varying stellar populations present throughout these galaxies, we present an analysis of color gradients in four z > 3, log(M★/M☉)>11 quiescent galaxies which previous works have argued are in tension with models. Using medium-band photometry from MINERVA JWST observations, we measure resolved photometry in a series of elliptical annuli out to 0.″7 (~4 R$_e$). We find negative color gradients in three galaxies, and for the most extreme color gradient (Δ(U - V)/ΔR = -0.126 ± 0.030 mag kpc$^-1$), we find the stellar mass is 0.1 dex lower when compared to photometry measured within NIRSpec slits. In the limiting case where these color gradients are entirely driven by age, we find lessened tensions with extreme value statistics models out to z ~ 9.5, though different stellar population modeling choices also contribute significantly. Ultimately, these findings highlight the need for integral field unit spectroscopy. Spatially resolved spectra can provide the evidence needed to break the age--dust--metallicity degeneracy, and reliably separate the effects of the observed color gradients from the effects of different physical modeling assumptions on the formation histories of these galaxies.'
+abstract: 'The discovery of a population of massive, ancient quiescent galaxies within the first 2 Gyr of the Universe''s history has led to significant tensions with models of galaxy formation. However, these analyses are often based on slit spectroscopy, which typically captures only the centermost region of these galaxies and, crucially, assumes these cores are representative of the entire galaxy. To illustrate the varying stellar populations present throughout these galaxies, we present an analysis of color gradients in four z > 3, log(M★/M☉)>11 quiescent galaxies which previous works have argued are in tension with models. Using medium-band photometry from MINERVA JWST observations, we measure resolved photometry in a series of elliptical annuli out to 0.″7 (~4 Rₑ). We find negative color gradients in three galaxies, and for the most extreme color gradient (Δ(U - V)/ΔR = -0.126 ± 0.030 mag kpc⁻¹), we find the stellar mass is 0.1 dex lower when compared to photometry measured within NIRSpec slits. In the limiting case where these color gradients are entirely driven by age, we find lessened tensions with extreme value statistics models out to z ~ 9.5, though different stellar population modeling choices also contribute significantly. Ultimately, these findings highlight the need for integral field unit spectroscopy. Spatially resolved spectra can provide the evidence needed to break the age–dust–metallicity degeneracy, and reliably separate the effects of the observed color gradients from the effects of different physical modeling assumptions on the formation histories of these galaxies.'
 
 summary: ''
 
@@ -80,11 +80,13 @@ url_video: ''
 
 image:
   caption: ''
-  focal_point: ''
+  focal_point: Smart
   preview_only: false
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1008L..11C
 - name: arXiv
   url: https://arxiv.org/abs/2606.02698
 ---

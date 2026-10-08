@@ -44,7 +44,7 @@ publication_short: ''
 
 doi: 10.3847/2041-8213/acfe07
 
-abstract: 'Observations of high-redshift galaxies provide a critical direct test to the theories of early galaxy formation, yet to date, only three have been spectroscopically confirmed at z > 12. Due to strong gravitational lensing over a wide area, the galaxy cluster field A2744 is ideal for searching for the earliest galaxies. Here we present JWST/NIRSpec observations of two galaxies: a robust detection at $z_\mathrmspec=12.393_-0.001^+0.004$ , and a plausible candidate at $z_\mathrmspec=13.079_-0.001^+0.013$ . The galaxies are discovered in JWST/NIRCam imaging and their distances are inferred with JWST/NIRSpec spectroscopy, all from the JWST Cycle 1 UNCOVER Treasury survey. Detailed stellar population modeling using JWST NIRCam and NIRSpec data corroborates the primeval characteristics of these galaxies: low mass (~10$^8$ M $_☉$), young, rapidly assembling, metal-poor, and star-forming. Interestingly, both galaxies are spatially resolved, having lensing-corrected rest-UV effective radii on the order of 300-400 pc, which are notably larger than other spectroscopically confirmed systems at similar redshifts. The observed dynamic range of z ≳ 10 sizes spans over 1 order of magnitude, implying a significant scatter in the size-mass relation at early times. Deep into the epoch of reionization, these discoveries elucidate the emergence of the first galaxies.'
+abstract: 'Observations of high-redshift galaxies provide a critical direct test to the theories of early galaxy formation, yet to date, only three have been spectroscopically confirmed at z > 12. Due to strong gravitational lensing over a wide area, the galaxy cluster field A2744 is ideal for searching for the earliest galaxies. Here we present JWST/NIRSpec observations of two galaxies: a robust detection at zspec=12.393-0.001+0.004 , and a plausible candidate at zspec=13.079-0.001+0.013 . The galaxies are discovered in JWST/NIRCam imaging and their distances are inferred with JWST/NIRSpec spectroscopy, all from the JWST Cycle 1 UNCOVER Treasury survey. Detailed stellar population modeling using JWST NIRCam and NIRSpec data corroborates the primeval characteristics of these galaxies: low mass (~10⁸ M ☉), young, rapidly assembling, metal-poor, and star-forming. Interestingly, both galaxies are spatially resolved, having lensing-corrected rest-UV effective radii on the order of 300-400 pc, which are notably larger than other spectroscopically confirmed systems at similar redshifts. The observed dynamic range of z ≳ 10 sizes spans over 1 order of magnitude, implying a significant scatter in the size-mass relation at early times. Deep into the epoch of reionization, these discoveries elucidate the emergence of the first galaxies.'
 
 summary: ''
 
@@ -68,6 +68,8 @@ image:
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2023ApJ...957L..34W
 - name: arXiv
   url: https://arxiv.org/abs/2308.03745
 ---

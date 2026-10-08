@@ -14,4 +14,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Using the *aperpy* code (in development) we are building a robust photometric catalog from [Hubble Legacy Field](https://archive.stsci.edu/prepds/hlf/) GOODS-N imaging. The catalog will contain psf-matched aperture photometry from 11 HST bands from the UV to near-IR. Detailed information on the catalog creation process can be found for the [HLF GOODS-S Photometric Catalog](https://iopscience.iop.org/article/10.3847/1538-4365/ab3853/pdf).
+Using the [*Aperpy*](https://github.com/astrowhit/aperpy) code, I built a robust photometric catalog from [Hubble Legacy Field](https://archive.stsci.edu/prepds/hlf/) GOODS-N imaging. The catalog will contain psf-matched aperture photometry from 11 HST bands from the UV to near-IR. Detailed information on the catalog creation process can be found for the [HLF GOODS-S Photometric Catalog](https://iopscience.iop.org/article/10.3847/1538-4365/ab3853/pdf).

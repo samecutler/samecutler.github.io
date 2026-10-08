@@ -7,7 +7,6 @@ draft: false
 featured: false
 tags:
   - Morphology
-  - Featured
   - Catalogs and Photometry
 external_link:
 links: []

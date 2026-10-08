@@ -47,7 +47,7 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/ae1836
 
-abstract: 'New populations of red active galactic nuclei (known as ``little red dots'''') discovered by JWST exhibit remarkable spectral energy distributions. Leveraging X-ray through far-infrared observations of two of the most luminous known little red dots, we directly measure their bolometric luminosities. We find evidence that more than half of the bolometric luminosity likely emerges in the rest-frame optical, with L$_bol$/L$_5100$ = 5, roughly half the value for ``standard'''' active galactic nuclei. Meanwhile, the X-ray emitting corona, UV-emitting blackbody, and reprocessed mid to far-infrared emission are all considerably subdominant, assuming that the far-infrared luminosity is well below current measured limits. We present new bolometric corrections that dramatically lower inferred bolometric luminosities by a factor of 10 compared to published values in the literature. These bolometric corrections are in accord with expectations from models in which gas absorption and reprocessing are responsible for the red rest-frame optical colors of little red dots. We discuss how this lowered luminosity scale suggests a lower mass scale for the population by at least an order of magnitude (e.g., ~10$^5$─10$^7$ M$_☉$ black holes, and ~10$^8$ M$_☉$ galaxies), alleviating tensions with clustering, overmassive black holes, and the integrated black hole mass density in the Universe.'
+abstract: 'New populations of red active galactic nuclei (known as “little red dots”) discovered by JWST exhibit remarkable spectral energy distributions. Leveraging X-ray through far-infrared observations of two of the most luminous known little red dots, we directly measure their bolometric luminosities. We find evidence that more than half of the bolometric luminosity likely emerges in the rest-frame optical, with Lbol/L₅₁₀₀ = 5, roughly half the value for “standard” active galactic nuclei. Meanwhile, the X-ray emitting corona, UV-emitting blackbody, and reprocessed mid to far-infrared emission are all considerably subdominant, assuming that the far-infrared luminosity is well below current measured limits. We present new bolometric corrections that dramatically lower inferred bolometric luminosities by a factor of 10 compared to published values in the literature. These bolometric corrections are in accord with expectations from models in which gas absorption and reprocessing are responsible for the red rest-frame optical colors of little red dots. We discuss how this lowered luminosity scale suggests a lower mass scale for the population by at least an order of magnitude (e.g., ~10⁵–10⁷ M☉ black holes, and ~10⁸ M☉ galaxies), alleviating tensions with clustering, overmassive black holes, and the integrated black hole mass density in the Universe.'
 
 summary: ''
 
@@ -71,6 +71,8 @@ image:
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ...996..129G
 - name: arXiv
   url: https://arxiv.org/abs/2509.05434
 ---

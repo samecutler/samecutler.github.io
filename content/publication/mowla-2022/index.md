@@ -35,7 +35,7 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/ac71af
 
-abstract: 'The 3D-Drift And SHift (3D-DASH) program is a Hubble Space Telescope (HST) WFC3 F160W imaging and G141 grism survey of the equatorial COSMOS field. 3D-DASH extends the legacy of HST near-infrared imaging and spectroscopy to degree-scale swaths of the sky, enabling the identification and study of distant galaxies (z > 2) that are rare or in short-lived phases of galaxy evolution at rest-frame optical wavelengths. Furthermore, when combined with existing ACS/F814W imaging, the program facilitates spatially resolved studies of the stellar populations and dust content of intermediate redshift (0.5 < z < 2) galaxies. Here we present the reduced F160W imaging mosaic available to the community. Observed with the efficient DASH technique, the mosaic comprises 1256 individual WFC3 pointings, corresponding to an area of 1.35 deg$^2$ (1.43 deg$^2$ in 1912 when including archival data). The median 5σ point-source limit in H $_160$ is 24.74 ± 0.20 mag. We also provide a point-spread function (PSF) generator tool to determine the PSF at any location within the 3D-DASH footprint. 3D-DASH is the widest HST/WFC3 imaging survey in the F160W filter to date, increasing the existing extragalactic survey area in the near- infrared at HST resolution by an order of magnitude.'
+abstract: 'The 3D-Drift And SHift (3D-DASH) program is a Hubble Space Telescope (HST) WFC3 F160W imaging and G141 grism survey of the equatorial COSMOS field. 3D-DASH extends the legacy of HST near-infrared imaging and spectroscopy to degree-scale swaths of the sky, enabling the identification and study of distant galaxies (z > 2) that are rare or in short-lived phases of galaxy evolution at rest-frame optical wavelengths. Furthermore, when combined with existing ACS/F814W imaging, the program facilitates spatially resolved studies of the stellar populations and dust content of intermediate redshift (0.5 < z < 2) galaxies. Here we present the reduced F160W imaging mosaic available to the community. Observed with the efficient DASH technique, the mosaic comprises 1256 individual WFC3 pointings, corresponding to an area of 1.35 deg² (1.43 deg² in 1912 when including archival data). The median 5σ point-source limit in H ₁₆₀ is 24.74 ± 0.20 mag. We also provide a point-spread function (PSF) generator tool to determine the PSF at any location within the 3D-DASH footprint. 3D-DASH is the widest HST/WFC3 imaging survey in the F160W filter to date, increasing the existing extragalactic survey area in the near- infrared at HST resolution by an order of magnitude.'
 
 summary: ''
 
@@ -59,6 +59,8 @@ image:
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...933..129M
 - name: arXiv
   url: https://arxiv.org/abs/2206.01156
 ---

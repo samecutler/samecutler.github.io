@@ -47,7 +47,7 @@ publication_short: ''
 
 doi: 10.3847/2041-8213/acf7c5
 
-abstract: 'The James Webb Space Telescope is now detecting early black holes (BHs) as they transition from ``seeds'''' to supermassive BHs. Recently, Bogdan et al. reported the detection of an X-ray luminous supermassive BH, UHZ-1, with a photometric redshift at z > 10. Such an extreme source at this very high redshift provides new insights on seeding and growth models for BHs given the short time available for formation and growth. Harnessing the exquisite sensitivity of JWST/NIRSpec, here we report the spectroscopic confirmation of UHZ-1 at z = 10.073 ± 0.002. We find that the NIRSpec/Prism spectrum is typical of recently discovered z ≈ 10 galaxies, characterized primarily by star formation features. We see no clear evidence of the powerful X-ray source in the rest-frame UV/optical spectrum, which may suggest heavy obscuration of the central BH, in line with the Compton-thick column density measured in the X-rays. We perform a stellar population fit simultaneously to the new NIRSpec spectroscopy and previously available photometry. The fit yields a stellar-mass estimate for the host galaxy that is significantly better constrained than prior photometric estimates ( $M_\star ~ 1.4_-0.4^+0.3\times 10^8$ M $_☉$). Given the predicted BH mass (M $_BH$ ~ 10$^7$-10$^8$ M $_☉$), the resulting ratio of M $_BH$/M $_★$ remains 2 to 3 orders of magnitude higher than local values, thus lending support to the heavy seeding channel for the formation of supermassive BHs within the first billion years of cosmic evolution.'
+abstract: 'The James Webb Space Telescope is now detecting early black holes (BHs) as they transition from “seeds” to supermassive BHs. Recently, Bogdan et al. reported the detection of an X-ray luminous supermassive BH, UHZ-1, with a photometric redshift at z > 10. Such an extreme source at this very high redshift provides new insights on seeding and growth models for BHs given the short time available for formation and growth. Harnessing the exquisite sensitivity of JWST/NIRSpec, here we report the spectroscopic confirmation of UHZ-1 at z = 10.073 ± 0.002. We find that the NIRSpec/Prism spectrum is typical of recently discovered z ≈ 10 galaxies, characterized primarily by star formation features. We see no clear evidence of the powerful X-ray source in the rest-frame UV/optical spectrum, which may suggest heavy obscuration of the central BH, in line with the Compton-thick column density measured in the X-rays. We perform a stellar population fit simultaneously to the new NIRSpec spectroscopy and previously available photometry. The fit yields a stellar-mass estimate for the host galaxy that is significantly better constrained than prior photometric estimates ( M★~ 1.4-0.4+0.3× 10⁸ M ☉). Given the predicted BH mass (M BH ~ 10⁷-10⁸ M ☉), the resulting ratio of M BH/M ★ remains 2 to 3 orders of magnitude higher than local values, thus lending support to the heavy seeding channel for the formation of supermassive BHs within the first billion years of cosmic evolution.'
 
 summary: ''
 
@@ -71,6 +71,8 @@ image:
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2023ApJ...955L..24G
 - name: arXiv
   url: https://arxiv.org/abs/2308.02750
 ---

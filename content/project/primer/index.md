@@ -5,7 +5,7 @@ date: 2024-01-17T00:51:36.869Z
 summary: JWST/NIRCam photometric catalogs of the COSMOS and UDS blank fields
 draft: false
 featured: false
-tags: ["Catalogs and Photometry", "Featured"]
+tags: ["Catalogs and Photometry"]
 external_link:
 links: []
 image:

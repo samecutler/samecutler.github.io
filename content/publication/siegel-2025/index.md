@@ -39,7 +39,7 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/adc7b7
 
-abstract: 'We explore the physical properties of five massive quiescent galaxies at z ~ 2.5, revealing the presence of nonnegligible dust reservoirs. JWST NIRSpec observations were obtained for each target, finding no significant line emission; multiple star formation tracers independently place upper limits between 0.1 and 10 M$_☉$ yr$^-1$. Spectral energy distribution modeling with Prospector infers stellar masses of log10[M/M\ odot]~10-11 and stellar-mass- weighted ages between 1 and 2 Gyr. The inferred mass-weighted effective radii (r$_eff$ ~ 0.4─1.4 kpc) and inner 1 kpc stellar surface densities (log10[\Sigma 1kpc/M☉kpc2]≳9) are typical of quiescent galaxies at z ≳ 2. The galaxies predominately display negative color gradients (redder core and bluer outskirts); for one galaxy, this effect results from a dusty core. Unlike local quiescent galaxies, we identify significant reddening in these typical cosmic noon passive galaxies; all but one require A$_V$ ≳ 0.4. This finding is in qualitative agreement with previous studies, but our deep 20-band NIRCam imaging is able to significantly suppress the dust─age degeneracy and confidently determine that these galaxies are reddened. We speculate about the physical effects that may drive the decline in dust content in quiescent galaxies over cosmic time.'
+abstract: 'We explore the physical properties of five massive quiescent galaxies at z ~ 2.5, revealing the presence of nonnegligible dust reservoirs. JWST NIRSpec observations were obtained for each target, finding no significant line emission; multiple star formation tracers independently place upper limits between 0.1 and 10 M☉ yr⁻¹. Spectral energy distribution modeling with Prospector infers stellar masses of log10[M/M\ odot]~10-11 and stellar-mass- weighted ages between 1 and 2 Gyr. The inferred mass-weighted effective radii (reff ~ 0.4–1.4 kpc) and inner 1 kpc stellar surface densities (log10[Σ1kpc/M☉kpc2]≳9) are typical of quiescent galaxies at z ≳ 2. The galaxies predominately display negative color gradients (redder core and bluer outskirts); for one galaxy, this effect results from a dusty core. Unlike local quiescent galaxies, we identify significant reddening in these typical cosmic noon passive galaxies; all but one require AV ≳ 0.4. This finding is in qualitative agreement with previous studies, but our deep 20-band NIRCam imaging is able to significantly suppress the dust–age degeneracy and confidently determine that these galaxies are reddened. We speculate about the physical effects that may drive the decline in dust content in quiescent galaxies over cosmic time.'
 
 summary: ''
 
@@ -63,6 +63,8 @@ image:
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2025ApJ...985..125S
 - name: arXiv
   url: https://arxiv.org/abs/2409.11457
 ---

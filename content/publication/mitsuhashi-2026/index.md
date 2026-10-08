@@ -39,7 +39,7 @@ publication_short: ''
 
 doi: 10.3847/1538-4357/ae7102
 
-abstract: 'We report the discovery of two z ~ 12 galaxy candidates with unusually red UV slopes (β$_UV$ ≳ -1.5), and probe the origin of such colors at cosmic dawn. From Prospector fits to the UNCOVER/MegaScience dataset—deep JWST/NIRCam imaging of A2744 in 20 broad- and medium bands—we identify several new z > 10 galaxies. Medium-band data improve redshift estimates, revealing two lensed (μ ~ 3.3) z ~ 12 galaxies in a close pair with β$_UV$ ≳ -1.5 at an UV absolute magnitude of M$_UV$ ~ -19 mag, lying away from typical scatter on previously known M$_UV$─β$_UV$ relations. Spectral energy distribution fitting with Prospector, Bagpipes, and EAZY support their high-z nature, with probability of low-z interlopers of p(z < 7) < 10\%. The potential low-z interlopers are z ~ 3 quiescent galaxies (QGs), but unexpected to be detected at the given field of view unless z ~ 3 QG stellar mass function has a strong turn up at logM*[M☉]~9. Unlike typical blue high-redshift candidates (β$_UV$ ≲ -2.0), these red slopes require either dust or nebular continuum reddening. The dust scenario implies A$_V$ ~ 0.8 mag, which is larger than theoretical predictions, but is consistent with a dust-to-stellar mass ratio (logMdust/M*~-3). The nebular scenario demands dense gas (lognH[cm-3]~4.0) around hot stars (logTeff[K]~4.9). Spectroscopic follow- up is essential to determine their true nature and reveal missing galaxies at the cosmic dawn.'
+abstract: 'We report the discovery of two z ~ 12 galaxy candidates with unusually red UV slopes (βUV ≳ -1.5), and probe the origin of such colors at cosmic dawn. From Prospector fits to the UNCOVER/MegaScience dataset—deep JWST/NIRCam imaging of A2744 in 20 broad- and medium bands—we identify several new z > 10 galaxies. Medium-band data improve redshift estimates, revealing two lensed (μ ~ 3.3) z ~ 12 galaxies in a close pair with βUV ≳ -1.5 at an UV absolute magnitude of MUV ~ -19 mag, lying away from typical scatter on previously known MUV–βUV relations. Spectral energy distribution fitting with Prospector, Bagpipes, and EAZY support their high-z nature, with probability of low-z interlopers of p(z < 7) < 10. The potential low-z interlopers are z ~ 3 quiescent galaxies (QGs), but unexpected to be detected at the given field of view unless z ~ 3 QG stellar mass function has a strong turn up at logM*[M☉]~9. Unlike typical blue high-redshift candidates (βUV ≲ -2.0), these red slopes require either dust or nebular continuum reddening. The dust scenario implies AV ~ 0.8 mag, which is larger than theoretical predictions, but is consistent with a dust-to-stellar mass ratio (logMdust/M*~-3). The nebular scenario demands dense gas (lognH[cm-3]~4.0) around hot stars (logTeff[K]~4.9). Spectroscopic follow- up is essential to determine their true nature and reveal missing galaxies at the cosmic dawn.'
 
 summary: ''
 
@@ -63,6 +63,8 @@ image:
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1005..108M
 - name: arXiv
   url: https://arxiv.org/abs/2510.13240
 ---

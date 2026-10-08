@@ -55,7 +55,7 @@ publication_short: ''
 
 doi: 10.48550/arXiv.2602.06024
 
-abstract: 'Little red dots (LRDs) are an abundant population of compact high- redshift sources with red rest-frame optical continua, discovered by the James Webb Space Telescope (JWST). Their red colors and power sources have been attributed either to dust reddening of standard hot accretion disks or to intrinsically cool thermal emission from dense hydrogen envelopes, in both cases surrounding accreting supermassive black holes. These scenarios predict order-of-magnitude differences in emission temperature but have lacked decisive temperature diagnostics. Here we report a prominent absorption feature at rest-frame $~ 1.4 \, μ\mathrmm$ in two out of four LRDs at $z ~ 2$ with high signal-to-noise JWST spectra, among the coolest from a large LRD sample. The feature matches the shape and wavelength of the water absorption band seen in cool stars. Atmosphere models require $T \lesssim 3000\, \mathrmK$ to reproduce it, confirming unambiguously the presence of a cool, dense gas component contributing $20-30\%$ to the emergent continuum. A composite model reproduces both the absorption and the rest- frame optical-to-infrared continuum shape and suggests a temperature range ($~2000\, \mathrmK - 4000 \, \mathrmK$) rather than a single blackbody predicted by some gas envelope models. Molecular absorption demonstrates that the red continua of some LRDs are intrinsic rather than dust-reddened, implying order-of-magnitude lower bolometric luminosities and black-hole masses, and providing a new diagnostic of the emitting gas.'
+abstract: 'Little red dots (LRDs) are an abundant population of compact high- redshift sources with red rest-frame optical continua, discovered by the James Webb Space Telescope (JWST). Their red colors and power sources have been attributed either to dust reddening of standard hot accretion disks or to intrinsically cool thermal emission from dense hydrogen envelopes, in both cases surrounding accreting supermassive black holes. These scenarios predict order-of-magnitude differences in emission temperature but have lacked decisive temperature diagnostics. Here we report a prominent absorption feature at rest-frame ~ 1.4 μm in two out of four LRDs at z ~ 2 with high signal-to-noise JWST spectra, among the coolest from a large LRD sample. The feature matches the shape and wavelength of the water absorption band seen in cool stars. Atmosphere models require T ≲ 3000 K to reproduce it, confirming unambiguously the presence of a cool, dense gas component contributing 20-30 to the emergent continuum. A composite model reproduces both the absorption and the rest- frame optical-to-infrared continuum shape and suggests a temperature range (~2000 K - 4000 K) rather than a single blackbody predicted by some gas envelope models. Molecular absorption demonstrates that the red continua of some LRDs are intrinsic rather than dust-reddened, implying order-of-magnitude lower bolometric luminosities and black-hole masses, and providing a new diagnostic of the emitting gas.'
 
 summary: ''
 
@@ -79,6 +79,8 @@ image:
 
 projects: []
 links:
+- name: ADS
+  url: https://ui.adsabs.harvard.edu/abs/2026arXiv260206024W
 - name: arXiv
   url: https://arxiv.org/abs/2602.06024
 ---
