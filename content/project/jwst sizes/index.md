@@ -1,5 +1,5 @@
 ---
-title: Two Classes of Quiescent Galaxies
+title: Low-Mass Quiescent Galaxies
 subtitle: Low-mass quiescent galaxies form a different population — at cosmic noon and in clusters today
 date: 2024-01-17T00:51:36.869Z
 summary: JWST-based sizes and structural measurements for quiescent galaxies across cosmic time, from cosmic noon field environments to the z~0.3 A2744 cluster
