@@ -32,4 +32,4 @@ We obtained deep (14.5 hr) NIRSpec/IFU PRISM spectroscopy for the Relic in Cycle
 2. Enrichment of birth gas prior to star formation
 3. Delayed enrichment after the first ~2 Myr
 
-![PRISM spectra of the two young GCs in the Relic](output.png)
+![PRISM spectra of the two young GCs in the Relic](ygc_spec.png)
