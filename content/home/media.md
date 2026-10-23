@@ -12,7 +12,7 @@ design:
 {{< media-item
   url="https://www.youtube.com/watch?v=gGphI1t-1X0"
   title="AAS Journal Author Series: Sam Cutler and Luke Robbins on 2026ApJ..1008L..11C"
-  outlet="YouTube"
+  outlet="AAS YouTube Channel"
   date="October 2026"
 >}}
 
@@ -21,7 +21,6 @@ design:
   title="The Remarkable Hubble Space Telescope: 35 Years Observing the Unknown in Space"
   outlet="Discover Magazine"
   date="May 2025"
-  thumb="/media/astronauts-and-hubble-space-telescope-x.webp"
 >}}
 
 {{< media-item
@@ -29,7 +28,6 @@ design:
   title="UMass astronomers help bring to life Webb telescope’s latest images of deep space"
   outlet="Daily Hampshire Gazette"
   date="February 2023"
-  thumb="/media/96ff7a73-2d70-4ce5-b6ed-3963a663c302.webp"
 >}}
 
 {{< media-item
@@ -37,5 +35,4 @@ design:
   title="How UMass Astronomers Helped the Hubble Space Telescope Take the Widest Photo of the Universe Ever"
   outlet="UMass News"
   date="June 2022"
-  thumb="/media/Galaxies.png"
 >}}
