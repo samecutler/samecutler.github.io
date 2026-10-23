@@ -1,0 +1,54 @@
+{{- $url   := .Get "url" -}}
+{{- $title := .Get "title" -}}
+{{- $outlet := .Get "outlet" | default "" -}}
+{{- $date  := .Get "date" | default "" -}}
+{{- $desc  := .Get "desc" | default "" -}}
+{{- $thumb := .Get "thumb" | default "" -}}
+
+{{/* Detect YouTube and extract video ID */}}
+{{- $isYT := false -}}
+{{- $ytID  := "" -}}
+{{- if $url -}}
+  {{- if or (in $url "youtube.com/watch") (in $url "youtu.be/") -}}
+    {{- $isYT = true -}}
+    {{- if in $url "youtu.be/" -}}
+      {{- $ytID = index (last 1 (split $url "youtu.be/")) 0 | replaceRE `\?.*` "" -}}
+    {{- else -}}
+      {{- $ytID = (index (findRE `v=([A-Za-z0-9_-]+)` $url 1) 0) | replaceRE `v=` "" -}}
+    {{- end -}}
+    {{- if not $thumb -}}
+      {{- $thumb = printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $ytID -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<div class="media-press-item" style="display:flex;gap:1rem;margin-bottom:1.25rem;align-items:flex-start;">
+  {{- if $thumb -}}
+  <a href="{{ $url }}" target="_blank" rel="noopener" style="flex-shrink:0;">
+    <img src="{{ $thumb }}" alt="{{ $title }}"
+         style="width:160px;height:90px;object-fit:cover;border-radius:6px;display:block;">
+    {{- if $isYT -}}
+    <div style="position:relative;margin-top:-90px;width:160px;height:90px;display:flex;align-items:center;justify-content:center;">
+      <svg width="44" height="44" viewBox="0 0 44 44" style="opacity:.85;">
+        <circle cx="22" cy="22" r="22" fill="#000" fill-opacity=".55"/>
+        <polygon points="17,13 35,22 17,31" fill="#fff"/>
+      </svg>
+    </div>
+    {{- end -}}
+  </a>
+  {{- end -}}
+  <div style="flex:1;min-width:0;">
+    <a href="{{ $url }}" target="_blank" rel="noopener"
+       style="font-weight:600;font-size:1rem;line-height:1.3;display:block;text-decoration:none;">{{ $title }}</a>
+    {{- if or $outlet $date -}}
+    <div style="font-size:.85rem;opacity:.65;margin-top:.2rem;">
+      {{- with $outlet -}}<span>{{ . }}</span>{{- end -}}
+      {{- if and $outlet $date -}}<span style="margin:0 .35rem;">·</span>{{- end -}}
+      {{- with $date -}}<span>{{ . }}</span>{{- end -}}
+    </div>
+    {{- end -}}
+    {{- with $desc -}}
+    <p style="font-size:.9rem;margin:.4rem 0 0;opacity:.8;">{{ . }}</p>
+    {{- end -}}
+  </div>
+</div>
